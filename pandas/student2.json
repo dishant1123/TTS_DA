@@ -1,0 +1,37 @@
+[
+    {
+        "student_id": 101,
+        "name": "Amit",
+        "age": 20,
+        "city": "Ahmedabad",
+        "marks": 85
+    },
+    {
+        "student_id": 102,
+        "name": "Priya",
+        "age": 21,
+        "city": "Surat",
+        "marks": 92
+    },
+    {
+        "student_id": 103,
+        "name": "Rahul",
+        "age": 19,
+        "city": "Vadodara",
+        "marks": 78
+    },
+    {
+        "student_id": 104,
+        "name": "Neha",
+        "age": 22,
+        "city": "Rajkot",
+        "marks": 88
+    },
+    {
+        "student_id": 105,
+        "name": "Karan",
+        "age": 20,
+        "city": "Bhavnagar",
+        "marks": 95
+    }
+]
