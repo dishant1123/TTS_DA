@@ -1,0 +1,1001 @@
+order_id,customer_id,gender,age,city,product_category,product,quantity,price_per_unit,total_price,payment_method,delivery_status,order_date
+1,CUST1520,M,65,Delhi,Clothing,T-Shirt,2,11136.18,22272.36,Cash,Cancelled,2023-08-05
+2,CUST5557,M,63,Bangalore,Books,Textbook,1,7605.06,7605.06,Net Banking,Delivered,2023-08-18
+3,CUST6635,F,39,Mumbai,Beauty,Lipstick,2,4204.18,8408.36,Net Banking,Delivered,2023-07-03
+4,CUST2139,M,36,Chennai,Toys,Board Game,4,1916.15,7664.6,UPI,Cancelled,2023-04-09
+5,CUST6820,M,47,Hyderabad,Furniture,Chair,1,12837.0,12837.0,UPI,Delivered,2023-07-09
+6,CUST4598,F,28,Mumbai,Clothing,Shoes,5,9542.93,47714.65,UPI,Cancelled,2023-12-19
+7,CUST9179,F,31,Ahmedabad,Books,Novel,4,12085.43,48341.72,UPI,Delivered,2023-12-02
+8,CUST3266,F,65,Delhi,Groceries,Oil,5,2137.47,10687.35,Net Banking,Pending,2023-04-23
+9,CUST8668,F,45,Mumbai,Electronics,Laptop,2,2334.98,4669.96,Net Banking,Pending,2023-11-02
+10,CUST9201,M,45,Delhi,Clothing,Shoes,3,11275.62,33826.86,Cash,Cancelled,2023-05-15
+11,CUST9005,M,28,Delhi,Furniture,Wardrobe,2,9154.1,18308.2,Cash,Cancelled,2023-06-15
+12,CUST3060,M,23,Ahmedabad,Sports,Yoga Mat,2,3629.81,7259.62,Net Banking,Delivered,2023-09-30
+13,CUST7537,F,31,Ahmedabad,Groceries,Oil,5,7938.72,39693.6,Card,Cancelled,2023-06-09
+14,CUST1964,M,55,Delhi,Toys,Lego,1,3756.19,3756.19,Card,Delivered,2023-02-06
+15,CUST8744,M,49,Ahmedabad,Electronics,Tablet,2,1109.32,2218.64,Card,Cancelled,2023-10-20
+16,CUST2612,M,44,Kolkata,Beauty,Moisturizer,4,1460.17,5840.68,Cash,Cancelled,2023-12-01
+17,CUST2235,F,26,Delhi,Sports,Cricket Bat,2,3767.41,7534.82,UPI,Pending,2023-05-08
+18,CUST7570,M,33,Bangalore,Electronics,Camera,1,12548.61,12548.61,Net Banking,Pending,2023-04-20
+19,CUST5861,M,47,Mumbai,Beauty,Shampoo,3,14780.37,44341.11,Net Banking,Delivered,2023-04-08
+20,CUST2113,M,51,Kolkata,Electronics,Tablet,5,904.62,4523.1,Cash,Delivered,2023-02-05
+21,CUST6147,M,,Hyderabad,Clothing,Shoes,5,3730.92,18654.6,UPI,Pending,2023-04-15
+22,CUST2638,M,22,Chennai,Beauty,Moisturizer,3,10091.77,30275.31,,Cancelled,2023-10-16
+23,CUST5956,M,41,Hyderabad,Furniture,Table,1,14002.23,14002.23,Net Banking,Cancelled,2023-12-27
+24,CUST4335,F,27,Ahmedabad,Clothing,Jeans,1,4003.77,4003.77,Card,Cancelled,2023-06-25
+25,CUST5291,M,20,Ahmedabad,Furniture,Chair,4,1429.86,5719.44,,Delivered,2023-11-23
+26,CUST3426,F,62,Bangalore,Beauty,Sunscreen,1,194.56,194.56,Cash,Pending,2023-10-26
+27,CUST7658,M,31,Chennai,Electronics,Tablet,1,5501.54,5501.54,Cash,Pending,2023-10-14
+28,CUST5371,M,39,Delhi,Groceries,Dal,1,13227.17,13227.17,Net Banking,Cancelled,2023-05-08
+29,CUST4164,F,47,Pune,Beauty,Shampoo,2,12885.97,25771.94,Card,Delivered,2023-01-13
+30,CUST5279,M,50,Hyderabad,Furniture,Chair,3,14504.99,43514.97,UPI,Delivered,2023-03-01
+31,CUST4114,F,38,Mumbai,Electronics,Laptop,3,8968.74,26906.22,Cash,Pending,2023-10-23
+32,CUST2146,F,65,Pune,Beauty,Shampoo,5,7822.81,39114.05,Card,Pending,2023-08-09
+33,CUST7211,M,62,Hyderabad,Clothing,Saree,4,7631.48,30525.92,Card,Delivered,2023-08-04
+34,CUST8244,M,45,Ahmedabad,Beauty,Sunscreen,3,12514.19,37542.57,UPI,Pending,2023-08-15
+35,CUST1400,M,33,Chennai,Groceries,Rice,5,4292.61,21463.05,Card,Delivered,2023-03-17
+36,CUST4997,M,58,Mumbai,Toys,Board Game,1,12753.58,12753.58,Net Banking,Pending,2023-07-24
+37,CUST8612,F,53,Ahmedabad,Clothing,Jacket,5,3321.67,16608.35,Cash,Pending,2023-03-10
+38,CUST9540,F,48,Chennai,Beauty,Sunscreen,2,6716.41,13432.82,Card,Cancelled,2023-05-22
+39,CUST4788,F,39,Bangalore,Furniture,Bed,3,1208.38,3625.14,Cash,Delivered,2023-03-19
+40,CUST1320,F,44,Ahmedabad,Books,Novel,3,6252.28,18756.84,Net Banking,Pending,2023-10-27
+41,CUST5471,F,44,Ahmedabad,Electronics,Tablet,4,4514.26,18057.04,Card,Pending,2023-04-23
+42,CUST1444,M,47,Kolkata,Electronics,Headphones,4,5075.14,20300.56,Cash,Pending,2023-10-31
+43,CUST7906,F,31,Delhi,Groceries,Flour,3,2766.85,8300.55,UPI,Pending,2023-05-23
+44,CUST1508,M,40,Chennai,Toys,Lego,1,11247.91,11247.91,Cash,Cancelled,2023-01-21
+45,CUST5198,F,25,Bangalore,Electronics,Camera,2,2328.12,4656.24,Card,Pending,2023-12-25
+46,CUST2245,M,37,Delhi,Clothing,Jeans,1,14472.58,14472.58,Net Banking,Pending,2023-04-12
+47,CUST6590,M,40,Kolkata,Furniture,Wardrobe,5,12092.64,60463.2,UPI,Delivered,2023-09-17
+48,CUST5425,F,47,Ahmedabad,Toys,Lego,3,6531.17,19593.51,Net Banking,Delivered,2023-09-25
+49,CUST7209,F,23,Mumbai,Beauty,Sunscreen,2,4062.51,8125.02,Net Banking,Delivered,2023-08-26
+50,CUST9464,M,34,Delhi,Toys,Car,2,2768.51,5537.02,UPI,Cancelled,2023-01-06
+51,CUST5820,M,59,Kolkata,Books,Dictionary,2,7354.24,14708.48,Net Banking,Delivered,2023-02-17
+52,CUST8434,F,51,Hyderabad,Books,Comic,3,9976.2,29928.6,UPI,Pending,2023-12-26
+53,CUST8933,F,65,Hyderabad,Furniture,Table,2,1853.81,3707.62,Card,Delivered,2023-04-21
+54,CUST1893,F,18,Bangalore,Clothing,Jeans,3,4478.88,13436.64,Card,Pending,2023-01-24
+55,CUST8827,M,48,Delhi,Toys,Lego,5,13097.16,65485.8,Card,Delivered,2023-05-10
+56,CUST7818,M,54,Kolkata,Beauty,Perfume,1,1157.53,1157.53,Cash,Delivered,2023-03-02
+57,CUST4404,M,37,Hyderabad,Toys,Puzzle,5,4495.43,22477.15,Cash,Cancelled,2023-02-20
+58,CUST4792,F,18,Hyderabad,Clothing,Jeans,5,3635.98,18179.9,Net Banking,Pending,2023-01-17
+59,CUST9922,M,58,Bangalore,Toys,Lego,3,10326.4,30979.2,Card,Pending,2023-02-28
+60,CUST8679,F,56,Kolkata,Furniture,Table,2,1117.58,2235.16,UPI,Pending,2023-03-05
+61,CUST1423,M,20,Chennai,Furniture,Wardrobe,4,8122.72,32490.88,UPI,Cancelled,2023-05-09
+62,CUST8141,F,59,Delhi,Electronics,Tablet,2,8664.89,17329.78,UPI,Delivered,2023-10-27
+63,CUST7561,M,28,Ahmedabad,Toys,Car,3,6154.8,18464.4,Net Banking,Pending,2023-12-06
+64,CUST8569,F,43,Mumbai,Clothing,Saree,1,3823.36,3823.36,Cash,Cancelled,2023-10-05
+65,CUST8941,M,21,Mumbai,Books,Magazine,4,5458.6,21834.4,Card,Pending,2023-08-13
+66,CUST3522,F,23,Hyderabad,Books,Textbook,1,4695.71,4695.71,Cash,Pending,2023-03-02
+67,CUST3236,M,53,Hyderabad,Furniture,Bed,4,12529.12,50116.48,Card,Cancelled,2023-09-18
+68,CUST9022,M,18,Ahmedabad,Beauty,Lipstick,5,14017.01,70085.05,UPI,Cancelled,2023-10-24
+69,CUST4826,F,38,Mumbai,Toys,Car,5,5019.98,25099.9,Card,Cancelled,2023-07-16
+70,CUST3068,F,60,Delhi,Sports,Cycle,4,10593.16,42372.64,Card,Pending,2023-01-19
+71,CUST5342,F,,Kolkata,Toys,Lego,4,7912.97,31651.88,Card,Delivered,2023-08-29
+72,CUST2121,M,38,Hyderabad,Clothing,Saree,5,12792.5,63962.5,Net Banking,Cancelled,2023-01-19
+73,CUST5906,M,63,Mumbai,Books,Novel,1,6537.87,6537.87,Net Banking,Delivered,2023-12-22
+74,CUST2293,F,33,Chennai,Sports,Cricket Bat,3,4435.85,13307.55,Card,Delivered,2023-03-31
+75,CUST9955,M,47,Delhi,Toys,Board Game,4,2189.61,8758.44,Cash,Pending,2023-05-28
+76,CUST7302,F,45,Delhi,Toys,Car,3,14815.39,44446.17,Net Banking,Pending,2023-04-12
+77,CUST1803,F,62,Hyderabad,Books,Dictionary,5,8600.24,43001.2,Net Banking,Pending,2023-01-05
+78,CUST1645,F,57,Ahmedabad,Books,Magazine,2,12038.88,24077.76,Card,Cancelled,2023-02-19
+79,CUST3165,F,36,Hyderabad,Electronics,Camera,2,5504.68,11009.36,Net Banking,Delivered,2023-04-13
+80,CUST2233,M,36,Chennai,Groceries,Oil,4,13715.03,54860.12,UPI,Delivered,2023-08-28
+81,CUST5295,F,,Pune,Beauty,Sunscreen,4,5518.34,22073.36,Net Banking,Pending,2023-12-11
+82,CUST8606,F,53,Kolkata,Clothing,Jeans,5,7098.58,35492.9,Card,Cancelled,2023-02-02
+83,CUST7367,F,49,Pune,Clothing,Jeans,1,727.93,727.93,Card,Cancelled,2023-03-11
+84,CUST5583,M,59,Pune,Beauty,Sunscreen,2,11146.92,22293.84,Net Banking,Cancelled,2023-07-28
+85,CUST6876,M,24,Kolkata,Books,Dictionary,2,6698.2,13396.4,UPI,Cancelled,2023-11-27
+86,CUST4990,M,31,Chennai,Furniture,Table,4,14524.69,58098.76,Cash,Delivered,2023-06-20
+87,CUST5542,M,32,Bangalore,Clothing,Shoes,2,3147.0,6294.0,Card,Cancelled,2023-01-02
+88,CUST1258,M,40,Hyderabad,Furniture,Table,1,1693.4,1693.4,Card,Cancelled,2023-06-15
+89,CUST2786,F,22,Chennai,Electronics,Phone,5,11138.68,55693.4,UPI,Cancelled,2023-10-31
+90,CUST9032,F,48,Delhi,Electronics,Camera,1,4559.37,4559.37,Net Banking,Cancelled,2023-02-25
+91,CUST9692,F,57,Ahmedabad,Clothing,Saree,1,9144.05,9144.05,UPI,Pending,2023-11-02
+92,CUST4743,F,59,Pune,Beauty,Shampoo,1,11906.79,11906.79,Card,Pending,2023-08-20
+93,CUST8770,M,38,Delhi,Toys,Puzzle,1,6269.05,6269.05,UPI,Delivered,2023-12-18
+94,CUST7730,F,53,Kolkata,Clothing,T-Shirt,3,6506.55,19519.65,UPI,Cancelled,2023-03-04
+95,CUST6736,F,50,Delhi,Electronics,Tablet,3,9026.13,27078.39,Net Banking,Delivered,2023-02-25
+96,CUST5381,M,57,Bangalore,Furniture,Wardrobe,4,3431.08,13724.32,Cash,Cancelled,2023-12-03
+97,CUST1502,M,,Chennai,Furniture,Sofa,3,13826.99,41480.97,Net Banking,Delivered,2023-03-14
+98,CUST3579,M,64,Delhi,Beauty,Perfume,2,6832.0,13664.0,Cash,Delivered,2023-03-21
+99,CUST2816,F,44,Ahmedabad,Furniture,Bed,4,9945.98,39783.92,Cash,Pending,2023-08-09
+100,CUST5742,F,,Delhi,Furniture,Chair,5,3346.75,16733.75,Card,Delivered,2023-05-11
+101,CUST1693,F,52,Mumbai,Electronics,Headphones,2,11217.86,22435.72,UPI,Delivered,2023-07-23
+102,CUST7636,M,43,Pune,Toys,Lego,5,12938.54,64692.7,Net Banking,Pending,2023-02-28
+103,CUST7484,F,24,Pune,Groceries,Sugar,3,6928.45,20785.35,Net Banking,Cancelled,2023-02-10
+104,CUST3419,M,25,Delhi,Books,Comic,1,11697.81,11697.81,Card,Pending,2023-06-29
+105,CUST8354,F,59,Pune,Groceries,Oil,5,2999.21,14996.05,Net Banking,Pending,2023-10-16
+106,CUST6085,F,35,Ahmedabad,Groceries,Flour,4,1070.88,4283.52,UPI,Cancelled,2023-02-07
+107,CUST1672,F,23,Chennai,Electronics,Laptop,3,5562.63,16687.89,Net Banking,Pending,2023-10-25
+108,CUST9266,M,46,Mumbai,Sports,Badminton,2,7160.65,14321.3,UPI,Cancelled,2023-02-13
+109,CUST6543,M,28,Pune,Books,Dictionary,5,14865.24,74326.2,UPI,Pending,2023-07-29
+110,CUST3317,F,64,Hyderabad,Clothing,Saree,4,1462.86,5851.44,Card,Pending,2023-02-11
+111,CUST9624,M,42,Kolkata,Beauty,Moisturizer,1,8945.87,8945.87,UPI,Delivered,2023-12-10
+112,CUST3253,M,39,Delhi,Sports,Cricket Bat,2,5470.84,10941.68,Net Banking,Delivered,2023-04-26
+113,CUST3147,F,51,Bangalore,Furniture,Chair,5,7639.96,38199.8,,Pending,2023-11-13
+114,CUST4891,F,28,Hyderabad,Groceries,Dal,5,12478.61,62393.05,Cash,Pending,2023-07-06
+115,CUST8218,F,48,Hyderabad,Toys,Doll,3,8033.47,24100.41,Card,Pending,2023-12-14
+116,CUST8873,F,56,Delhi,Beauty,Sunscreen,2,7935.52,15871.04,UPI,Delivered,2023-11-25
+117,CUST8391,F,50,Mumbai,Clothing,Saree,2,1303.93,2607.86,Net Banking,Delivered,2023-04-24
+118,CUST6493,M,23,Bangalore,Beauty,Shampoo,3,5976.99,17930.97,Cash,Pending,2023-02-20
+119,CUST1086,M,26,Mumbai,Electronics,Tablet,4,13765.07,55060.28,Net Banking,Pending,2023-11-12
+120,CUST5934,M,56,Mumbai,Furniture,Table,5,12532.7,62663.5,Cash,Pending,2023-05-02
+121,CUST1269,M,25,Bangalore,Books,Dictionary,5,9602.33,48011.65,Net Banking,Cancelled,2023-10-02
+122,CUST2108,M,44,Kolkata,Furniture,Bed,3,73.39,220.17,Cash,Cancelled,2023-07-04
+123,CUST2698,F,19,Bangalore,Toys,Lego,3,9553.28,28659.84,Cash,Pending,2023-05-04
+124,CUST3209,M,61,Ahmedabad,Electronics,Tablet,2,8212.91,16425.82,Net Banking,Cancelled,2023-04-04
+125,CUST5150,M,38,Chennai,Electronics,Tablet,2,3063.79,6127.58,Net Banking,Cancelled,2023-08-31
+126,CUST8204,F,39,Pune,Furniture,Sofa,1,12938.97,12938.97,UPI,Pending,2023-07-24
+127,CUST2293,F,51,Bangalore,Groceries,Flour,3,10396.42,31189.26,Cash,Cancelled,2023-08-06
+128,CUST8272,F,37,Ahmedabad,Furniture,Sofa,3,1583.84,4751.52,Net Banking,Delivered,2023-12-20
+129,CUST3621,M,21,Bangalore,Electronics,Tablet,4,9242.03,36968.12,Net Banking,Pending,2023-09-20
+130,CUST8371,F,41,Pune,Toys,Lego,2,1937.14,3874.28,Cash,Cancelled,2023-03-20
+131,CUST4048,F,38,Kolkata,Toys,Lego,5,8630.13,43150.65,Card,Delivered,2023-01-14
+132,CUST3223,M,57,Ahmedabad,Clothing,Saree,4,11635.72,46542.88,Net Banking,Delivered,2023-03-04
+133,CUST3852,F,63,Chennai,Groceries,Flour,3,14959.07,44877.21,UPI,Pending,2023-03-22
+134,CUST3126,M,19,Delhi,Clothing,Jeans,2,11891.38,23782.76,UPI,Pending,2023-10-10
+135,CUST2215,F,44,Ahmedabad,Furniture,Bed,4,14993.95,59975.8,Cash,Delivered,2023-06-12
+136,CUST1907,M,29,Bangalore,Sports,Football,5,13175.5,65877.5,Card,Pending,2023-09-15
+137,CUST5496,M,51,Hyderabad,Furniture,Table,2,2471.41,4942.82,Cash,Pending,2023-04-11
+138,CUST1464,M,27,Mumbai,Clothing,Shoes,5,9632.76,48163.8,UPI,Cancelled,2023-01-22
+139,CUST8912,M,19,Kolkata,Furniture,Table,4,11516.04,46064.16,UPI,Cancelled,2023-06-04
+140,CUST3353,F,44,Pune,Furniture,Bed,1,1140.95,1140.95,Card,Pending,2023-11-07
+141,CUST8366,M,24,Bangalore,Sports,Cycle,3,2004.95,6014.85,Net Banking,Delivered,2023-05-17
+142,CUST6123,M,44,Bangalore,Clothing,T-Shirt,4,4388.67,17554.68,Card,Pending,2023-10-23
+143,CUST6781,M,23,Mumbai,Toys,Board Game,3,7028.89,21086.67,Net Banking,Delivered,2023-04-21
+144,CUST6992,F,18,Pune,Furniture,Bed,4,8982.91,35931.64,Net Banking,Delivered,2023-05-16
+145,CUST5582,M,53,Bangalore,Electronics,Headphones,5,814.81,4074.05,Net Banking,Cancelled,2023-08-19
+146,CUST7576,M,41,Mumbai,Clothing,Jacket,3,5629.32,16887.96,Card,Cancelled,2023-09-18
+147,CUST6218,M,27,Kolkata,Electronics,Phone,4,10718.2,42872.8,Card,Pending,2023-11-10
+148,CUST6427,M,63,Kolkata,Furniture,Wardrobe,5,5078.78,25393.9,Net Banking,Delivered,2023-07-08
+149,CUST3793,F,55,Bangalore,Furniture,Chair,3,8973.8,26921.4,Cash,Cancelled,2023-09-03
+150,CUST4340,F,46,Ahmedabad,Books,Novel,1,8609.93,8609.93,Card,Pending,2023-12-20
+151,CUST8531,F,60,Pune,Electronics,Phone,5,7804.31,39021.55,Net Banking,Pending,2023-03-30
+152,CUST4396,F,37,Pune,Furniture,Wardrobe,2,7288.49,14576.98,UPI,Pending,2023-12-27
+153,CUST3399,F,54,Mumbai,Toys,Car,3,8429.29,25287.87,Net Banking,Pending,2023-06-26
+154,CUST5450,M,65,Delhi,Furniture,Chair,4,5228.13,20912.52,Card,Cancelled,2023-05-19
+155,CUST2647,M,32,Mumbai,Books,Textbook,5,808.94,4044.7,Net Banking,Pending,2023-08-30
+156,CUST1969,M,30,Chennai,Groceries,Flour,4,9810.75,39243.0,UPI,Pending,2023-05-27
+157,CUST5742,M,20,Mumbai,Electronics,Phone,2,6297.38,12594.76,Net Banking,Pending,2023-04-06
+158,CUST8668,F,59,Chennai,Furniture,Wardrobe,3,9061.61,27184.83,Net Banking,Delivered,2023-09-16
+159,CUST4164,M,63,Kolkata,Clothing,Saree,4,2479.29,9917.16,UPI,Pending,2023-10-18
+160,CUST1111,F,29,Kolkata,Beauty,Sunscreen,4,4952.5,19810.0,Net Banking,Pending,2023-05-08
+161,CUST4871,M,64,Delhi,Books,Dictionary,3,11318.66,33955.98,UPI,Cancelled,2023-07-04
+162,CUST7021,M,63,Chennai,Toys,Car,5,2437.77,12188.85,Cash,Cancelled,2023-06-01
+163,CUST4578,M,62,Delhi,Groceries,Flour,5,2340.12,11700.6,Net Banking,Cancelled,2023-12-07
+164,CUST3455,M,25,Pune,Toys,Board Game,1,10571.3,10571.3,Card,Cancelled,2023-10-02
+165,CUST9409,F,50,Ahmedabad,Toys,Lego,5,10220.41,51102.05,Cash,Pending,2023-03-09
+166,CUST2196,M,43,Kolkata,Electronics,Camera,3,6962.56,20887.68,Cash,Cancelled,2023-04-22
+167,CUST7698,M,22,Bangalore,Sports,Cricket Bat,1,8140.39,8140.39,Net Banking,Delivered,2023-05-27
+168,CUST2943,M,42,Kolkata,Beauty,Lipstick,4,14893.21,59572.84,Card,Cancelled,2023-06-28
+169,CUST4762,M,47,Ahmedabad,Groceries,Dal,1,12530.58,12530.58,Net Banking,Cancelled,2023-07-14
+170,CUST2102,M,,Mumbai,Sports,Football,1,4170.96,4170.96,Cash,Delivered,2023-04-16
+171,CUST1924,M,20,Hyderabad,Toys,Board Game,1,10096.75,10096.75,Card,Cancelled,2023-04-22
+172,CUST4621,F,38,Hyderabad,Books,Magazine,5,4817.61,24088.05,Card,Cancelled,2023-09-24
+173,CUST1768,F,29,Kolkata,Furniture,Chair,5,8372.94,41864.7,Net Banking,Cancelled,2023-09-11
+174,CUST3365,F,52,Mumbai,Sports,Cycle,3,6153.47,18460.41,Card,Pending,2023-12-29
+175,CUST2514,M,34,Mumbai,Beauty,Perfume,2,8381.44,16762.88,Cash,Pending,2023-07-09
+176,CUST6455,F,,Mumbai,Furniture,Bed,5,10121.4,50607.0,Card,Pending,2023-04-17
+177,CUST6269,F,48,Kolkata,Books,Textbook,1,14433.06,14433.06,Card,Pending,2023-05-03
+178,CUST6246,M,50,Pune,Toys,Board Game,3,9748.38,29245.14,Net Banking,Delivered,2023-08-29
+179,CUST4214,F,19,Chennai,Sports,Cycle,2,733.45,1466.9,Net Banking,Pending,2023-03-20
+180,CUST9037,F,61,Bangalore,Beauty,Sunscreen,4,12508.77,50035.08,Net Banking,Cancelled,2023-11-25
+181,CUST2217,M,52,Mumbai,Sports,Football,5,2142.38,10711.9,Cash,Cancelled,2023-01-18
+182,CUST7114,M,27,Ahmedabad,Beauty,Moisturizer,2,12646.04,25292.08,,Cancelled,2023-08-22
+183,CUST1280,F,19,Bangalore,Toys,Lego,5,148.85,744.25,UPI,Cancelled,2023-05-27
+184,CUST2294,F,51,Kolkata,Clothing,T-Shirt,2,7889.56,15779.12,UPI,Pending,2023-07-23
+185,CUST7213,F,23,Ahmedabad,Toys,Board Game,2,3685.96,7371.92,Cash,Delivered,2023-07-27
+186,CUST9653,M,45,Chennai,Electronics,Laptop,1,10557.53,10557.53,UPI,Cancelled,2023-02-18
+187,CUST1256,M,61,Bangalore,Books,Magazine,1,7158.73,7158.73,Cash,Delivered,2023-06-11
+188,CUST2284,F,42,Mumbai,Beauty,Shampoo,5,4524.19,22620.95,UPI,Pending,2023-03-13
+189,CUST5478,F,57,Ahmedabad,Clothing,Jacket,1,3520.55,3520.55,Net Banking,Pending,2023-01-16
+190,CUST5839,M,61,Delhi,Books,Comic,4,8317.91,33271.64,Net Banking,Delivered,2023-11-13
+191,CUST8286,F,38,Hyderabad,Clothing,Saree,2,2355.6,4711.2,Cash,Delivered,2023-06-07
+192,CUST6798,M,53,Pune,Clothing,Jeans,4,1355.09,5420.36,Cash,Delivered,2023-02-15
+193,CUST3778,F,64,Bangalore,Beauty,Shampoo,4,4413.12,17652.48,Card,Cancelled,2023-09-24
+194,CUST2260,F,28,Hyderabad,Groceries,Oil,4,4551.91,18207.64,Net Banking,Pending,2023-09-05
+195,CUST7224,F,26,Ahmedabad,Books,Dictionary,2,8927.41,17854.82,Net Banking,Pending,2023-11-14
+196,CUST3910,F,38,Pune,Sports,Cycle,5,12241.36,61206.8,Card,Pending,2023-06-10
+197,CUST4273,M,35,Mumbai,Furniture,Bed,2,14518.06,29036.12,Net Banking,Pending,2023-02-28
+198,CUST3280,F,22,Chennai,Toys,Doll,3,6604.9,19814.7,Net Banking,Cancelled,2023-09-13
+199,CUST7853,M,56,Pune,Furniture,Table,4,10742.78,42971.12,Net Banking,Cancelled,2023-09-17
+200,CUST2735,M,57,Delhi,Clothing,T-Shirt,3,11545.86,34637.58,Net Banking,Pending,2023-08-09
+201,CUST8586,M,62,Pune,Furniture,Table,5,7684.61,38423.05,Net Banking,Pending,2023-07-20
+202,CUST6620,F,23,Chennai,Electronics,Headphones,4,1613.01,6452.04,Card,Pending,2023-06-09
+203,CUST2885,M,46,Pune,Toys,Car,4,7168.63,28674.52,UPI,Delivered,2023-12-30
+204,CUST7636,M,53,Bangalore,Clothing,Jeans,2,13952.34,27904.68,Net Banking,Pending,2023-04-29
+205,CUST4519,M,46,Hyderabad,Beauty,Perfume,5,486.42,2432.1,Net Banking,Delivered,2023-12-27
+206,CUST9019,F,38,Kolkata,Clothing,Shoes,5,1571.19,7855.95,Cash,Pending,2023-12-10
+207,CUST2388,M,57,Pune,Beauty,Sunscreen,3,1757.77,5273.31,UPI,Cancelled,2023-10-30
+208,CUST7286,F,27,Bangalore,Clothing,Jeans,2,4615.43,9230.86,Net Banking,Cancelled,2023-03-12
+209,CUST1878,F,49,Mumbai,Toys,Board Game,2,10416.82,20833.64,Card,Pending,2023-08-19
+210,CUST7809,F,50,Ahmedabad,Toys,Doll,4,2967.17,11868.68,Net Banking,Cancelled,2023-09-09
+211,CUST9115,M,35,Delhi,Groceries,Rice,2,8502.7,17005.4,UPI,Delivered,2023-08-23
+212,CUST7965,M,20,Chennai,Furniture,Wardrobe,3,12358.08,37074.24,Net Banking,Cancelled,2023-04-22
+213,CUST6744,F,23,Bangalore,Furniture,Chair,3,6773.5,20320.5,Cash,Delivered,2023-04-18
+214,CUST5794,F,52,Hyderabad,Groceries,Dal,1,12212.27,12212.27,Card,Pending,2023-12-27
+215,CUST5090,M,35,Pune,Clothing,Jeans,4,14443.44,57773.76,Card,Cancelled,2023-03-09
+216,CUST2525,F,58,Hyderabad,Books,Dictionary,5,7367.41,36837.05,Net Banking,Delivered,2023-11-21
+217,CUST6869,M,64,Kolkata,Sports,Cycle,3,14256.3,42768.9,Net Banking,Cancelled,2023-12-07
+218,CUST6631,M,36,Mumbai,Books,Dictionary,4,12381.47,49525.88,Card,Cancelled,2023-09-06
+219,CUST3161,F,18,Bangalore,Clothing,Jacket,2,293.41,586.82,Net Banking,Delivered,2023-12-19
+220,CUST6005,M,60,Kolkata,Furniture,Chair,3,9836.09,29508.27,Card,Delivered,2023-07-22
+221,CUST6629,M,55,Kolkata,Clothing,T-Shirt,4,66.24,264.96,Net Banking,Delivered,2023-01-05
+222,CUST7270,M,24,Bangalore,Groceries,Flour,4,1108.88,4435.52,UPI,Pending,2023-03-12
+223,CUST7745,F,46,Chennai,Clothing,Shoes,5,8471.2,42356.0,Card,Cancelled,2023-03-19
+224,CUST5059,F,42,Delhi,Clothing,T-Shirt,1,2143.2,2143.2,Net Banking,Pending,2023-03-13
+225,CUST4366,M,62,Kolkata,Books,Magazine,5,9034.94,45174.7,,Cancelled,2023-06-04
+226,CUST6916,F,25,Bangalore,Furniture,Chair,2,11767.83,23535.66,Cash,Cancelled,2023-01-07
+227,CUST2106,M,48,Hyderabad,Beauty,Sunscreen,5,6341.91,31709.55,Cash,Delivered,2023-10-28
+228,CUST7590,M,58,Bangalore,Books,Novel,4,13842.56,55370.24,Net Banking,Pending,2023-12-26
+229,CUST2083,F,27,Kolkata,Furniture,Chair,5,4683.11,23415.55,Net Banking,Cancelled,2023-11-21
+230,CUST3877,M,57,Mumbai,Books,Novel,4,3704.97,14819.88,UPI,Cancelled,2023-12-03
+231,CUST2934,M,64,Pune,Groceries,Rice,3,2499.3,7497.9,UPI,Delivered,2023-05-18
+232,CUST6900,M,54,Ahmedabad,Beauty,Lipstick,3,7881.62,23644.86,Net Banking,Pending,2023-09-19
+233,CUST1042,M,61,Mumbai,Groceries,Oil,1,2401.78,2401.78,Card,Cancelled,2023-09-18
+234,CUST7870,M,29,Pune,Books,Novel,4,7102.88,28411.52,Cash,Cancelled,2023-12-02
+235,CUST1862,M,22,Chennai,Books,Dictionary,3,13742.03,41226.09,Cash,Cancelled,2023-12-11
+236,CUST4287,F,37,Hyderabad,Electronics,Headphones,4,1080.45,4321.8,Net Banking,Delivered,2023-07-08
+237,CUST7718,M,30,Chennai,Books,Dictionary,4,5555.69,22222.76,Card,Delivered,2023-01-04
+238,CUST9680,M,42,Kolkata,Sports,Cricket Bat,1,14267.3,14267.3,UPI,Delivered,2023-04-16
+239,CUST7102,F,23,Delhi,Toys,Lego,2,14589.76,29179.52,Card,Cancelled,2023-07-31
+240,CUST5276,F,54,Kolkata,Clothing,Shoes,4,2046.03,8184.12,Card,Delivered,2023-05-30
+241,CUST3693,F,30,Ahmedabad,Sports,Yoga Mat,2,6818.73,13637.46,Cash,Delivered,2023-02-24
+242,CUST2481,M,31,Hyderabad,Sports,Cycle,3,1855.01,5565.03,Net Banking,Pending,2023-03-03
+243,CUST1802,F,63,Hyderabad,Electronics,Phone,3,12547.08,37641.24,UPI,Pending,2023-09-20
+244,CUST2989,M,53,Mumbai,Groceries,Rice,4,14283.84,57135.36,Net Banking,Delivered,2023-03-13
+245,CUST5240,M,58,Mumbai,Books,Textbook,4,3012.09,12048.36,Cash,Cancelled,2023-10-28
+246,CUST8552,M,23,Bangalore,Clothing,Jeans,4,13542.32,54169.28,UPI,Delivered,2023-01-22
+247,CUST8307,M,29,Mumbai,Beauty,Perfume,4,7467.09,29868.36,Card,Pending,2023-05-24
+248,CUST9614,M,23,Mumbai,Books,Comic,5,7508.43,37542.15,Card,Pending,2023-04-13
+249,CUST1427,F,54,Chennai,Beauty,Lipstick,4,7221.28,28885.12,Net Banking,Pending,2023-04-03
+250,CUST4951,F,55,Mumbai,Electronics,Tablet,4,925.94,3703.76,Card,Delivered,2023-05-07
+251,CUST6878,M,29,Pune,Books,Magazine,4,12705.25,50821.0,UPI,Cancelled,2023-12-24
+252,CUST4584,M,29,Ahmedabad,Groceries,Sugar,4,14228.11,56912.44,Cash,Delivered,2023-04-30
+253,CUST3420,M,39,Delhi,Electronics,Tablet,2,13772.55,27545.1,UPI,Delivered,2023-01-12
+254,CUST8982,F,39,Bangalore,Sports,Cricket Bat,4,5635.18,22540.72,Card,Delivered,2023-08-12
+255,CUST7415,M,64,Bangalore,Sports,Football,2,9999.7,19999.4,Card,Delivered,2023-01-01
+256,CUST6234,M,49,Delhi,Sports,Badminton,5,3352.38,16761.9,Cash,Delivered,2023-06-27
+257,CUST1788,F,22,Ahmedabad,Sports,Cycle,2,220.36,440.72,Cash,Cancelled,2023-01-01
+258,CUST4695,M,40,Ahmedabad,Beauty,Moisturizer,4,13274.05,53096.2,Cash,Pending,2023-10-23
+259,CUST2228,M,24,Pune,Clothing,T-Shirt,3,4458.88,13376.64,Card,Pending,2023-03-24
+260,CUST4112,F,45,Hyderabad,Toys,Lego,2,6498.28,12996.56,Cash,Pending,2023-04-16
+261,CUST1062,F,53,Delhi,Furniture,Sofa,1,3601.35,3601.35,Card,Delivered,2023-07-04
+262,CUST2892,F,,Kolkata,Furniture,Wardrobe,1,7230.91,7230.91,UPI,Delivered,2023-08-31
+263,CUST4056,F,52,Mumbai,Toys,Puzzle,3,13428.42,40285.26,UPI,Pending,2023-07-09
+264,CUST6632,F,54,Chennai,Furniture,Bed,2,7002.62,14005.24,Cash,Delivered,2023-12-09
+265,CUST8803,F,61,Delhi,Electronics,Headphones,4,12285.16,49140.64,Net Banking,Cancelled,2023-05-01
+266,CUST3832,M,61,Chennai,Beauty,Shampoo,5,7556.42,37782.1,Card,Delivered,2023-08-18
+267,CUST6238,M,45,Delhi,Books,Textbook,1,688.0,688.0,Card,Cancelled,2023-05-13
+268,CUST9561,F,51,Delhi,Beauty,Sunscreen,3,5990.46,17971.38,Cash,Cancelled,2023-11-16
+269,CUST6633,F,24,Hyderabad,Beauty,Moisturizer,5,2265.59,11327.95,Cash,Pending,2023-10-02
+270,CUST7581,M,,Kolkata,Beauty,Perfume,4,8601.75,34407.0,Card,Cancelled,2023-11-08
+271,CUST5593,F,41,Delhi,Sports,Football,4,786.9,3147.6,,Pending,2023-06-09
+272,CUST2462,M,38,Ahmedabad,Books,Textbook,4,4542.18,18168.72,Net Banking,Cancelled,2023-11-27
+273,CUST9303,F,21,Bangalore,Books,Dictionary,5,11127.12,55635.6,Card,Delivered,2023-06-09
+274,CUST4262,F,33,Pune,Electronics,Phone,2,2931.81,5863.62,,Delivered,2023-07-04
+275,CUST6730,F,33,Bangalore,Toys,Board Game,1,5984.29,5984.29,Net Banking,Delivered,2023-08-31
+276,CUST4688,M,,Hyderabad,Furniture,Chair,4,4311.79,17247.16,Card,Delivered,2023-11-28
+277,CUST6004,F,26,Kolkata,Beauty,Sunscreen,1,349.78,349.78,Cash,Delivered,2023-05-10
+278,CUST1120,F,61,Hyderabad,Beauty,Lipstick,2,6912.02,13824.04,Net Banking,Cancelled,2023-02-22
+279,CUST5895,M,58,Bangalore,Furniture,Chair,3,7251.99,21755.97,UPI,Pending,2023-12-02
+280,CUST5843,F,38,Kolkata,Books,Novel,5,12091.18,60455.9,Cash,Cancelled,2023-09-12
+281,CUST9759,F,54,Pune,Beauty,Perfume,5,11064.14,55320.7,UPI,Cancelled,2023-04-24
+282,CUST3999,F,24,Delhi,Furniture,Table,5,12617.55,63087.75,UPI,Cancelled,2023-10-14
+283,CUST8709,M,39,Delhi,Books,Comic,3,3388.75,10166.25,UPI,Pending,2023-03-02
+284,CUST6614,F,44,Ahmedabad,Toys,Doll,4,7532.14,30128.56,Card,Delivered,2023-04-13
+285,CUST1950,M,49,Ahmedabad,Groceries,Oil,2,12942.79,25885.58,Card,Pending,2023-11-21
+286,CUST8105,F,28,Kolkata,Furniture,Table,2,11429.84,22859.68,Cash,Delivered,2023-11-11
+287,CUST4122,M,64,Mumbai,Beauty,Perfume,1,5780.58,5780.58,Cash,Pending,2023-09-29
+288,CUST1749,F,24,Hyderabad,Books,Textbook,3,10418.19,31254.57,UPI,Delivered,2023-02-03
+289,CUST4087,M,61,Kolkata,Toys,Board Game,3,8965.73,26897.19,UPI,Pending,2023-07-03
+290,CUST1612,F,19,Hyderabad,Electronics,Phone,2,3403.6,6807.2,Card,Delivered,2023-07-07
+291,CUST7230,M,19,Hyderabad,Electronics,Camera,1,14920.47,14920.47,Cash,Pending,2023-08-16
+292,CUST3247,F,60,Delhi,Toys,Doll,1,3122.15,3122.15,UPI,Cancelled,2023-11-07
+293,CUST6864,F,56,Hyderabad,Clothing,Saree,1,1754.49,1754.49,UPI,Cancelled,2023-04-14
+294,CUST2458,M,48,Ahmedabad,Groceries,Rice,2,8244.67,16489.34,Cash,Delivered,2023-12-10
+295,CUST5327,F,24,Mumbai,Groceries,Rice,1,11703.92,11703.92,Card,Pending,2023-06-01
+296,CUST1158,M,61,Bangalore,Clothing,Jeans,3,13118.4,39355.2,Cash,Delivered,2023-01-24
+297,CUST7566,F,64,Ahmedabad,Sports,Yoga Mat,5,13423.19,67115.95,UPI,Delivered,2023-02-28
+298,CUST1960,M,59,Delhi,Furniture,Bed,4,10364.04,41456.16,Card,Delivered,2023-03-09
+299,CUST3140,F,29,Ahmedabad,Beauty,Sunscreen,5,7265.99,36329.95,UPI,Cancelled,2023-01-15
+300,CUST4669,F,38,Delhi,Clothing,Jacket,1,6638.28,6638.28,,Cancelled,2023-09-26
+301,CUST3571,F,53,Ahmedabad,Beauty,Moisturizer,4,7254.85,29019.4,Cash,Delivered,2023-11-26
+302,CUST7203,F,35,Chennai,Groceries,Rice,3,11283.88,33851.64,Card,Cancelled,2023-11-26
+303,CUST1291,M,49,Kolkata,Clothing,Jacket,5,6690.62,33453.1,Cash,Pending,2023-12-01
+304,CUST4389,F,56,Pune,Beauty,Shampoo,1,8379.11,8379.11,UPI,Cancelled,2023-10-15
+305,CUST2868,M,57,Chennai,Sports,Cricket Bat,4,12258.0,49032.0,UPI,Cancelled,2023-08-20
+306,CUST3301,F,41,Delhi,Electronics,Tablet,3,5359.33,16077.99,Cash,Delivered,2023-09-10
+307,CUST2765,F,43,Mumbai,Furniture,Wardrobe,1,2979.03,2979.03,Card,Cancelled,2023-06-23
+308,CUST8091,F,26,Bangalore,Clothing,Jacket,5,6887.95,34439.75,Cash,Cancelled,2023-01-25
+309,CUST5067,F,38,Kolkata,Groceries,Dal,5,1598.13,7990.65,Net Banking,Pending,2023-11-08
+310,CUST6143,M,56,Chennai,Sports,Yoga Mat,2,6820.04,13640.08,UPI,Cancelled,2023-10-08
+311,CUST6281,M,26,Pune,Books,Magazine,3,10730.05,32190.15,Card,Cancelled,2023-10-05
+312,CUST2744,M,52,Kolkata,Toys,Board Game,4,8581.04,34324.16,Net Banking,Delivered,2023-09-25
+313,CUST5835,M,28,Mumbai,Groceries,Rice,2,10070.3,20140.6,UPI,Delivered,2023-02-01
+314,CUST5712,M,65,Kolkata,Sports,Cycle,5,1582.08,7910.4,Net Banking,Delivered,2023-09-19
+315,CUST8259,M,21,Pune,Beauty,Perfume,3,14352.69,43058.07,,Pending,2023-04-14
+316,CUST2955,F,22,Mumbai,Books,Textbook,2,4447.96,8895.92,Card,Cancelled,2023-09-21
+317,CUST3536,M,34,Bangalore,Beauty,Lipstick,2,8371.15,16742.3,,Pending,2023-12-30
+318,CUST6207,M,37,Bangalore,Sports,Badminton,5,810.29,4051.45,UPI,Delivered,2023-12-29
+319,CUST6424,F,23,Hyderabad,Clothing,Shoes,5,2432.59,12162.95,Card,Cancelled,2023-06-19
+320,CUST8301,M,59,Chennai,Books,Magazine,5,7980.96,39904.8,,Cancelled,2023-06-27
+321,CUST9426,F,52,Ahmedabad,Electronics,Tablet,1,5751.52,5751.52,Cash,Cancelled,2023-07-11
+322,CUST1120,M,23,Chennai,Electronics,Tablet,2,13479.31,26958.62,Card,Cancelled,2023-10-01
+323,CUST3519,M,62,Ahmedabad,Books,Dictionary,2,12543.19,25086.38,Net Banking,Cancelled,2023-02-06
+324,CUST7357,F,34,Kolkata,Sports,Cricket Bat,1,1358.44,1358.44,Card,Pending,2023-07-28
+325,CUST1745,M,59,Pune,Beauty,Lipstick,1,302.52,302.52,Cash,Cancelled,2023-10-27
+326,CUST1504,F,36,Bangalore,Clothing,Saree,3,11814.03,35442.09,Net Banking,Pending,2023-07-22
+327,CUST3316,M,58,Mumbai,Books,Textbook,5,11213.97,56069.85,UPI,Delivered,2023-10-11
+328,CUST9397,M,23,Bangalore,Electronics,Camera,5,8969.99,44849.95,UPI,Delivered,2023-07-31
+329,CUST2198,F,29,Delhi,Groceries,Dal,3,9272.43,27817.29,Cash,Cancelled,2023-08-25
+330,CUST2143,M,39,Pune,Furniture,Chair,5,3001.39,15006.95,Card,Delivered,2023-05-26
+331,CUST3762,M,27,Pune,Toys,Puzzle,3,4958.77,14876.31,UPI,Pending,2023-08-08
+332,CUST8296,F,41,Hyderabad,Books,Textbook,4,10697.38,42789.52,UPI,Pending,2023-08-25
+333,CUST5312,M,35,Delhi,Toys,Board Game,5,1677.05,8385.25,Card,Cancelled,2023-04-11
+334,CUST9904,F,55,Bangalore,Electronics,Camera,5,9492.82,47464.1,Cash,Cancelled,2023-05-14
+335,CUST9227,M,36,Chennai,Sports,Cycle,5,3388.43,16942.15,Cash,Pending,2023-07-06
+336,CUST6878,M,54,Chennai,Groceries,Sugar,2,2148.54,4297.08,Card,Cancelled,2023-09-05
+337,CUST8448,M,60,Mumbai,Toys,Doll,3,989.77,2969.31,UPI,Pending,2023-08-29
+338,CUST3848,F,35,Kolkata,Sports,Cricket Bat,5,10570.86,52854.3,UPI,Cancelled,2023-10-06
+339,CUST6781,F,42,Ahmedabad,Sports,Badminton,1,9817.38,9817.38,Card,Cancelled,2023-07-27
+340,CUST4062,M,32,Pune,Toys,Board Game,2,148.64,297.28,UPI,Delivered,2023-03-18
+341,CUST3641,F,48,Mumbai,Clothing,Jeans,3,6248.47,18745.41,Net Banking,Delivered,2023-10-30
+342,CUST5231,M,58,Kolkata,Books,Novel,5,1961.88,9809.4,Card,Delivered,2023-03-27
+343,CUST3338,M,48,Hyderabad,Electronics,Tablet,2,14211.45,28422.9,Card,Delivered,2023-07-30
+344,CUST4315,F,32,Bangalore,Groceries,Oil,5,13839.16,69195.8,Card,Delivered,2023-01-09
+345,CUST3135,M,52,Kolkata,Clothing,Jeans,5,7164.24,35821.2,Cash,Delivered,2023-09-04
+346,CUST2600,F,48,Bangalore,Beauty,Lipstick,5,13128.62,65643.1,Net Banking,Pending,2023-10-29
+347,CUST1116,M,52,Mumbai,Furniture,Bed,1,11499.59,11499.59,Card,Delivered,2023-12-30
+348,CUST7939,F,24,Hyderabad,Beauty,Moisturizer,3,10332.11,30996.33,UPI,Pending,2023-10-02
+349,CUST6641,F,41,Bangalore,Beauty,Moisturizer,5,6227.76,31138.8,Net Banking,Pending,2023-06-07
+350,CUST1852,M,50,Kolkata,Clothing,Jeans,2,6726.59,13453.18,UPI,Cancelled,2023-11-11
+351,CUST2311,M,45,Kolkata,Electronics,Laptop,4,12357.67,49430.68,UPI,Delivered,2023-07-09
+352,CUST8192,M,56,Chennai,Beauty,Sunscreen,3,9859.82,29579.46,Card,Cancelled,2023-09-11
+353,CUST6893,M,62,Mumbai,Furniture,Table,5,552.46,2762.3,Card,Cancelled,2023-01-19
+354,CUST2124,M,43,Hyderabad,Groceries,Rice,4,14952.42,59809.68,Card,Cancelled,2023-01-08
+355,CUST5277,M,30,Kolkata,Sports,Yoga Mat,3,14451.15,43353.45,Net Banking,Cancelled,2023-01-03
+356,CUST5098,F,25,Kolkata,Clothing,Shoes,3,1132.17,3396.51,UPI,Cancelled,2023-10-22
+357,CUST2106,F,55,Chennai,Toys,Doll,4,11374.23,45496.92,Net Banking,Delivered,2023-05-13
+358,CUST2523,F,18,Pune,Books,Comic,3,6215.77,18647.31,UPI,Delivered,2023-05-28
+359,CUST4115,F,31,Chennai,Clothing,Shoes,4,13974.37,55897.48,UPI,Delivered,2023-12-16
+360,CUST2964,M,33,Ahmedabad,Books,Textbook,2,13097.5,26195.0,UPI,Delivered,2023-02-24
+361,CUST9374,F,38,Kolkata,Electronics,Camera,4,14372.0,57488.0,UPI,Pending,2023-04-04
+362,CUST7450,M,48,Ahmedabad,Books,Magazine,5,1967.28,9836.4,Cash,Cancelled,2023-06-27
+363,CUST5254,M,,Hyderabad,Clothing,Shoes,1,6928.06,6928.06,Cash,Pending,2023-07-05
+364,CUST7099,F,29,Kolkata,Books,Comic,5,7096.61,35483.05,Card,Pending,2023-12-25
+365,CUST4863,F,61,Kolkata,Furniture,Bed,2,2739.34,5478.68,Cash,Cancelled,2023-05-19
+366,CUST9470,F,18,Ahmedabad,Books,Textbook,2,12010.56,24021.12,Net Banking,Delivered,2023-11-19
+367,CUST5166,F,,Delhi,Furniture,Sofa,5,8453.97,42269.85,Card,Delivered,2023-04-21
+368,CUST4259,M,34,Hyderabad,Toys,Car,3,3933.55,11800.65,Net Banking,Delivered,2023-06-29
+369,CUST8598,M,46,Bangalore,Sports,Yoga Mat,4,10114.23,40456.92,Net Banking,Cancelled,2023-05-27
+370,CUST6191,F,22,Hyderabad,Sports,Cycle,5,9487.54,47437.7,UPI,Delivered,2023-06-10
+371,CUST1378,M,51,Chennai,Beauty,Lipstick,3,13320.99,39962.97,Net Banking,Delivered,2023-04-05
+372,CUST1431,F,22,Delhi,Furniture,Chair,4,3198.04,12792.16,Net Banking,Cancelled,2023-01-28
+373,CUST8260,M,42,Bangalore,Clothing,Saree,1,9290.63,9290.63,Card,Cancelled,2023-05-26
+374,CUST9987,F,38,Bangalore,Groceries,Rice,3,575.57,1726.71,Net Banking,Cancelled,2023-05-20
+375,CUST9841,M,58,Delhi,Groceries,Sugar,5,8983.88,44919.4,UPI,Pending,2023-09-04
+376,CUST5698,F,18,Mumbai,Toys,Car,3,5518.46,16555.38,,Delivered,2023-06-26
+377,CUST4089,F,56,Kolkata,Toys,Puzzle,4,4529.18,18116.72,Cash,Cancelled,2023-07-11
+378,CUST9464,F,32,Hyderabad,Beauty,Moisturizer,4,2490.88,9963.52,Net Banking,Cancelled,2023-05-03
+379,CUST5458,F,36,Chennai,Furniture,Bed,1,2860.61,2860.61,Net Banking,Cancelled,2023-08-20
+380,CUST8183,M,,Chennai,Sports,Cricket Bat,5,2324.63,11623.15,UPI,Pending,2023-03-06
+381,CUST1519,F,37,Delhi,Clothing,Jeans,2,270.14,540.28,Net Banking,Pending,2023-08-26
+382,CUST2998,M,48,Kolkata,Groceries,Rice,4,4034.23,16136.92,UPI,Pending,2023-01-07
+383,CUST6113,F,65,Bangalore,Toys,Doll,1,11077.4,11077.4,Card,Pending,2023-07-19
+384,CUST2850,M,37,Kolkata,Electronics,Camera,3,7837.85,23513.55,Cash,Cancelled,2023-04-22
+385,CUST8786,M,43,Pune,Sports,Cricket Bat,3,2552.04,7656.12,Cash,Delivered,2023-10-25
+386,CUST3521,M,39,Bangalore,Clothing,Jeans,1,2407.59,2407.59,Cash,Delivered,2023-07-02
+387,CUST1349,F,40,Pune,Toys,Doll,5,4785.26,23926.3,Net Banking,Cancelled,2023-04-09
+388,CUST4057,F,53,Pune,Groceries,Oil,4,13485.01,53940.04,Net Banking,Delivered,2023-10-18
+389,CUST5314,F,53,Ahmedabad,Toys,Car,5,13021.54,65107.7,Card,Pending,2023-06-01
+390,CUST9830,F,57,Chennai,Electronics,Camera,2,5716.7,11433.4,Card,Pending,2023-02-02
+391,CUST2092,M,59,Bangalore,Toys,Board Game,3,2354.27,7062.81,Cash,Cancelled,2023-12-04
+392,CUST9615,F,20,Mumbai,Groceries,Rice,4,3071.08,12284.32,Net Banking,Cancelled,2023-09-08
+393,CUST1994,F,,Kolkata,Sports,Football,1,9109.01,9109.01,Net Banking,Delivered,2023-08-28
+394,CUST9511,M,64,Delhi,Sports,Cricket Bat,3,12363.46,37090.38,UPI,Delivered,2023-04-21
+395,CUST7802,M,33,Pune,Books,Magazine,2,5810.7,11621.4,Card,Cancelled,2023-10-13
+396,CUST9747,F,53,Pune,Toys,Puzzle,2,13248.22,26496.44,UPI,Cancelled,2023-03-22
+397,CUST4943,M,44,Kolkata,Sports,Badminton,3,14872.37,44617.11,Net Banking,Cancelled,2023-06-15
+398,CUST9480,M,18,Hyderabad,Furniture,Sofa,4,14426.69,57706.76,UPI,Cancelled,2023-01-09
+399,CUST3534,M,19,Mumbai,Electronics,Tablet,2,14766.7,29533.4,UPI,Cancelled,2023-09-19
+400,CUST7550,M,55,Delhi,Toys,Car,3,2383.8,7151.4,UPI,Pending,2023-02-17
+401,CUST7251,M,24,Mumbai,Sports,Cycle,5,2634.89,13174.45,UPI,Delivered,2023-10-23
+402,CUST1187,F,25,Mumbai,Sports,Yoga Mat,4,13202.9,52811.6,Card,Cancelled,2023-12-01
+403,CUST7436,F,38,Delhi,Furniture,Wardrobe,5,665.67,3328.35,Card,Delivered,2023-01-26
+404,CUST5301,M,39,Kolkata,Books,Dictionary,4,4382.26,17529.04,Cash,Cancelled,2023-07-24
+405,CUST9589,M,49,Chennai,Beauty,Moisturizer,4,11442.39,45769.56,Card,Cancelled,2023-11-12
+406,CUST6706,M,54,Pune,Clothing,Saree,3,11662.74,34988.22,Net Banking,Pending,2023-07-07
+407,CUST8216,M,40,Chennai,Sports,Badminton,3,9848.38,29545.14,Net Banking,Cancelled,2023-03-16
+408,CUST6624,M,21,Hyderabad,Books,Comic,1,2382.07,2382.07,Card,Pending,2023-01-08
+409,CUST3315,M,31,Kolkata,Toys,Puzzle,2,390.08,780.16,UPI,Cancelled,2023-09-05
+410,CUST1136,M,62,Kolkata,Electronics,Tablet,3,2596.28,7788.84,Cash,Pending,2023-12-02
+411,CUST2631,F,59,Ahmedabad,Furniture,Sofa,1,12971.02,12971.02,Net Banking,Cancelled,2023-12-30
+412,CUST5995,F,63,Ahmedabad,Clothing,Jeans,4,3023.18,12092.72,,Delivered,2023-09-29
+413,CUST5221,F,37,Mumbai,Beauty,Moisturizer,3,324.66,973.98,UPI,Delivered,2023-11-17
+414,CUST3502,F,23,Hyderabad,Furniture,Table,4,2318.04,9272.16,Card,Pending,2023-05-04
+415,CUST9582,M,55,Kolkata,Sports,Cycle,2,8156.39,16312.78,Card,Delivered,2023-06-08
+416,CUST3384,M,52,Pune,Groceries,Sugar,3,13760.83,41282.49,Cash,Delivered,2023-06-12
+417,CUST5372,M,30,Chennai,Beauty,Perfume,3,4585.05,13755.15,Card,Delivered,2023-11-10
+418,CUST9051,F,56,Bangalore,Books,Novel,4,5420.96,21683.84,UPI,Delivered,2023-07-18
+419,CUST4323,M,18,Delhi,Groceries,Dal,4,3432.78,13731.12,Net Banking,Delivered,2023-12-10
+420,CUST7232,F,47,Kolkata,Groceries,Flour,4,13013.58,52054.32,Net Banking,Pending,2023-01-22
+421,CUST7481,M,20,Kolkata,Electronics,Camera,4,1684.28,6737.12,Card,Cancelled,2023-10-03
+422,CUST1893,M,36,Ahmedabad,Electronics,Phone,4,4403.13,17612.52,Net Banking,Pending,2023-11-10
+423,CUST6299,F,55,Mumbai,Toys,Lego,1,10853.57,10853.57,Card,Pending,2023-07-31
+424,CUST2494,M,23,Ahmedabad,Groceries,Flour,2,8875.22,17750.44,Card,Cancelled,2023-03-05
+425,CUST7235,M,50,Bangalore,Sports,Cricket Bat,4,7881.07,31524.28,Card,Pending,2023-10-09
+426,CUST6071,F,27,Hyderabad,Sports,Badminton,2,13076.02,26152.04,Cash,Pending,2023-06-07
+427,CUST9169,M,,Ahmedabad,Groceries,Rice,2,13483.2,26966.4,Cash,Pending,2023-09-12
+428,CUST5556,M,46,Mumbai,Books,Textbook,4,8853.49,35413.96,Cash,Delivered,2023-10-08
+429,CUST1803,M,,Kolkata,Groceries,Dal,3,873.21,2619.63,UPI,Pending,2023-02-14
+430,CUST6901,M,62,Delhi,Groceries,Dal,5,10097.75,50488.75,Card,Pending,2023-10-24
+431,CUST3204,M,45,Hyderabad,Furniture,Sofa,4,5560.11,22240.44,Cash,Pending,2023-08-30
+432,CUST5705,F,57,Pune,Sports,Badminton,2,6235.68,12471.36,Cash,Pending,2023-12-19
+433,CUST9154,F,26,Bangalore,Furniture,Wardrobe,5,8648.38,43241.9,Net Banking,Cancelled,2023-11-20
+434,CUST7793,F,47,Mumbai,Books,Comic,1,14689.9,14689.9,Cash,Cancelled,2023-04-17
+435,CUST6042,F,,Pune,Sports,Yoga Mat,2,8428.21,16856.42,UPI,Pending,2023-02-04
+436,CUST6415,F,54,Ahmedabad,Electronics,Laptop,3,10303.25,30909.75,Cash,Delivered,2023-04-10
+437,CUST1917,F,47,Pune,Toys,Lego,4,9702.5,38810.0,UPI,Pending,2023-07-31
+438,CUST6556,F,40,Bangalore,Electronics,Phone,3,8682.09,26046.27,Card,Pending,2023-01-16
+439,CUST9143,M,38,Pune,Beauty,Moisturizer,3,8948.12,26844.36,UPI,Pending,2023-02-14
+440,CUST9290,M,41,Ahmedabad,Toys,Car,3,3281.29,9843.87,Card,Delivered,2023-08-16
+441,CUST9456,M,51,Chennai,Groceries,Dal,4,5134.73,20538.92,UPI,Delivered,2023-02-20
+442,CUST1755,M,37,Hyderabad,Electronics,Headphones,5,5844.44,29222.2,Cash,Pending,2023-08-28
+443,CUST2927,F,30,Bangalore,Electronics,Camera,2,11389.48,22778.96,UPI,Pending,2023-12-10
+444,CUST5440,M,24,Hyderabad,Groceries,Oil,5,1761.18,8805.9,UPI,Cancelled,2023-06-13
+445,CUST1826,M,52,Kolkata,Books,Textbook,5,1115.08,5575.4,Card,Delivered,2023-08-30
+446,CUST6119,F,55,Chennai,Electronics,Laptop,2,6425.66,12851.32,Net Banking,Cancelled,2023-07-02
+447,CUST8625,F,62,Chennai,Clothing,Jacket,1,8538.45,8538.45,Net Banking,Pending,2023-12-17
+448,CUST8987,M,41,Delhi,Books,Textbook,5,12923.39,64616.95,UPI,Pending,2023-08-21
+449,CUST7646,M,36,Pune,Toys,Lego,4,5304.04,21216.16,Card,Cancelled,2023-02-22
+450,CUST2082,F,33,Chennai,Clothing,Saree,4,8014.55,32058.2,Card,Pending,2023-07-16
+451,CUST8972,M,33,Ahmedabad,Beauty,Perfume,3,8529.81,25589.43,Cash,Cancelled,2023-12-31
+452,CUST7208,F,43,Ahmedabad,Sports,Badminton,4,1509.93,6039.72,Cash,Cancelled,2023-11-02
+453,CUST8421,F,58,Kolkata,Electronics,Laptop,2,3303.3,6606.6,Card,Cancelled,2023-03-18
+454,CUST2462,M,61,Kolkata,Toys,Doll,3,3124.64,9373.92,Net Banking,Cancelled,2023-06-26
+455,CUST1510,M,18,Kolkata,Groceries,Oil,5,983.04,4915.2,UPI,Delivered,2023-05-25
+456,CUST4083,F,52,Pune,Beauty,Lipstick,4,10691.02,42764.08,Card,Pending,2023-03-13
+457,CUST8155,M,22,Delhi,Beauty,Moisturizer,2,4362.64,8725.28,Card,Cancelled,2023-09-07
+458,CUST7303,F,57,Chennai,Groceries,Flour,5,12909.28,64546.4,Net Banking,Cancelled,2023-08-19
+459,CUST7012,M,64,Mumbai,Groceries,Flour,5,9088.37,45441.85,UPI,Pending,2023-10-07
+460,CUST2281,M,23,Chennai,Toys,Car,4,1741.81,6967.24,UPI,Pending,2023-09-22
+461,CUST8681,F,37,Ahmedabad,Toys,Lego,5,10276.91,51384.55,UPI,Cancelled,2023-01-06
+462,CUST5267,M,20,Ahmedabad,Sports,Cycle,3,5326.07,15978.21,UPI,Cancelled,2023-10-16
+463,CUST3077,M,57,Hyderabad,Groceries,Sugar,3,821.72,2465.16,,Pending,2023-02-12
+464,CUST8317,F,18,Bangalore,Furniture,Table,3,9256.18,27768.54,Card,Cancelled,2023-03-19
+465,CUST9125,F,39,Kolkata,Furniture,Table,5,7299.53,36497.65,Card,Cancelled,2023-03-20
+466,CUST2900,M,64,Bangalore,Books,Dictionary,2,10903.69,21807.38,Cash,Cancelled,2023-05-16
+467,CUST3378,F,52,Mumbai,Toys,Puzzle,4,7169.67,28678.68,Net Banking,Pending,2023-05-15
+468,CUST6797,F,61,Hyderabad,Furniture,Bed,3,5760.96,17282.88,Cash,Cancelled,2023-11-23
+469,CUST4193,F,55,Bangalore,Sports,Yoga Mat,1,4042.96,4042.96,Card,Cancelled,2023-12-11
+470,CUST6759,M,18,Hyderabad,Sports,Badminton,1,208.14,208.14,Cash,Cancelled,2023-08-17
+471,CUST2995,M,56,Delhi,Furniture,Table,5,558.92,2794.6,Card,Cancelled,2023-11-23
+472,CUST8650,M,29,Ahmedabad,Groceries,Flour,5,9863.1,49315.5,Card,Pending,2023-05-31
+473,CUST6450,M,22,Hyderabad,Furniture,Bed,3,10398.71,31196.13,Cash,Pending,2023-07-18
+474,CUST2776,M,30,Kolkata,Furniture,Table,4,6636.59,26546.36,Card,Cancelled,2023-09-09
+475,CUST5105,F,24,Mumbai,Books,Magazine,4,9667.91,38671.64,,Delivered,2023-10-20
+476,CUST7411,M,60,Ahmedabad,Toys,Doll,1,9810.34,9810.34,Card,Cancelled,2023-06-18
+477,CUST9770,F,18,Pune,Toys,Puzzle,1,6088.5,6088.5,Net Banking,Delivered,2023-10-18
+478,CUST4327,M,39,Mumbai,Furniture,Bed,1,875.16,875.16,Net Banking,Pending,2023-11-28
+479,CUST8175,M,58,Bangalore,Beauty,Moisturizer,4,4518.11,18072.44,Net Banking,Delivered,2023-11-20
+480,CUST8361,M,42,Mumbai,Electronics,Phone,5,429.2,2146.0,UPI,Pending,2023-10-01
+481,CUST3440,M,31,Delhi,Sports,Cricket Bat,1,5098.89,5098.89,Net Banking,Cancelled,2023-10-02
+482,CUST1818,F,57,Delhi,Electronics,Phone,1,7358.98,7358.98,Card,Delivered,2023-03-30
+483,CUST7983,F,24,Kolkata,Toys,Board Game,5,2601.81,13009.05,Card,Delivered,2023-04-14
+484,CUST3841,F,38,Delhi,Sports,Cricket Bat,5,14639.01,73195.05,Card,Delivered,2023-10-31
+485,CUST1666,M,41,Delhi,Clothing,Saree,4,2161.49,8645.96,Net Banking,Delivered,2023-10-25
+486,CUST5648,F,18,Ahmedabad,Beauty,Moisturizer,4,283.67,1134.68,Cash,Cancelled,2023-11-30
+487,CUST1616,M,44,Ahmedabad,Groceries,Dal,3,2189.16,6567.48,Card,Cancelled,2023-12-21
+488,CUST9842,M,30,Ahmedabad,Clothing,Saree,1,5250.41,5250.41,Cash,Cancelled,2023-07-05
+489,CUST3617,M,61,Mumbai,Books,Comic,1,843.38,843.38,Net Banking,Pending,2023-04-01
+490,CUST3589,M,47,Ahmedabad,Sports,Yoga Mat,3,3183.37,9550.11,Cash,Cancelled,2023-04-01
+491,CUST6343,M,38,Delhi,Clothing,T-Shirt,4,13431.43,53725.72,UPI,Delivered,2023-02-26
+492,CUST3374,M,22,Ahmedabad,Books,Dictionary,4,13054.8,52219.2,Net Banking,Delivered,2023-08-12
+493,CUST3084,M,58,Mumbai,Groceries,Flour,4,5633.6,22534.4,UPI,Delivered,2023-06-21
+494,CUST3568,M,28,Chennai,Furniture,Table,4,1711.08,6844.32,Card,Pending,2023-11-06
+495,CUST8014,M,31,Chennai,Clothing,Jacket,4,12861.76,51447.04,Net Banking,Pending,2023-01-08
+496,CUST8711,M,54,Kolkata,Sports,Cycle,5,8713.03,43565.15,Net Banking,Delivered,2023-01-21
+497,CUST4571,M,33,Pune,Beauty,Perfume,1,12155.26,12155.26,Cash,Cancelled,2023-07-28
+498,CUST1399,F,,Ahmedabad,Furniture,Table,1,9732.22,9732.22,Card,Cancelled,2023-08-24
+499,CUST6454,M,63,Hyderabad,Groceries,Flour,3,2814.94,8444.82,Cash,Pending,2023-12-20
+500,CUST1898,F,31,Mumbai,Beauty,Lipstick,5,10485.92,52429.6,Cash,Cancelled,2023-06-21
+501,CUST4354,M,,Pune,Clothing,Jacket,5,5515.58,27577.9,Cash,Cancelled,2023-12-30
+502,CUST6250,F,55,Hyderabad,Books,Magazine,4,1747.69,6990.76,Card,Cancelled,2023-04-26
+503,CUST9714,F,49,Ahmedabad,Beauty,Lipstick,3,864.18,2592.54,Cash,Pending,2023-12-30
+504,CUST3699,F,43,Delhi,Sports,Cricket Bat,4,2865.89,11463.56,UPI,Delivered,2023-02-25
+505,CUST9870,M,58,Ahmedabad,Groceries,Flour,2,2299.95,4599.9,,Pending,2023-12-16
+506,CUST6503,F,22,Pune,Sports,Cycle,1,6685.71,6685.71,,Delivered,2023-09-24
+507,CUST5259,M,46,Ahmedabad,Sports,Cycle,5,8920.69,44603.45,Card,Pending,2023-03-29
+508,CUST9770,F,36,Bangalore,Sports,Yoga Mat,1,11557.76,11557.76,Card,Cancelled,2023-03-24
+509,CUST7056,M,,Chennai,Groceries,Dal,1,2460.76,2460.76,Card,Pending,2023-05-14
+510,CUST7628,F,52,Bangalore,Electronics,Tablet,2,14671.44,29342.88,UPI,Delivered,2023-01-13
+511,CUST3409,F,39,Pune,Toys,Car,5,2383.0,11915.0,UPI,Pending,2023-05-29
+512,CUST8306,F,25,Delhi,Clothing,Jacket,2,13507.61,27015.22,Net Banking,Cancelled,2023-04-23
+513,CUST2369,F,32,Delhi,Sports,Cricket Bat,2,9141.86,18283.72,UPI,Delivered,2023-01-12
+514,CUST8006,F,21,Kolkata,Beauty,Moisturizer,5,7382.46,36912.3,UPI,Pending,2023-03-17
+515,CUST7809,F,46,Hyderabad,Sports,Cricket Bat,3,4305.52,12916.56,Cash,Delivered,2023-08-16
+516,CUST8776,F,55,Delhi,Groceries,Flour,4,10942.65,43770.6,Card,Delivered,2023-06-05
+517,CUST7254,F,53,Ahmedabad,Beauty,Shampoo,3,148.95,446.85,Card,Delivered,2023-04-06
+518,CUST5303,F,65,Ahmedabad,Electronics,Tablet,3,12527.05,37581.15,Cash,Delivered,2023-03-20
+519,CUST2093,F,59,Ahmedabad,Clothing,Saree,4,6286.49,25145.96,Cash,Pending,2023-09-10
+520,CUST1958,M,25,Pune,Beauty,Lipstick,4,9438.54,37754.16,Cash,Pending,2023-03-25
+521,CUST5778,M,44,Chennai,Toys,Doll,1,5392.91,5392.91,UPI,Delivered,2023-05-29
+522,CUST6939,M,38,Pune,Groceries,Rice,2,9001.5,18003.0,UPI,Pending,2023-12-17
+523,CUST3532,M,49,Chennai,Groceries,Rice,3,2097.39,6292.17,Card,Delivered,2023-04-22
+524,CUST6940,M,26,Ahmedabad,Clothing,Jacket,1,6934.35,6934.35,Net Banking,Pending,2023-06-09
+525,CUST6036,M,25,Chennai,Sports,Football,1,10662.93,10662.93,Card,Cancelled,2023-04-27
+526,CUST1537,M,48,Ahmedabad,Groceries,Rice,1,6400.84,6400.84,Cash,Delivered,2023-02-25
+527,CUST4027,F,24,Mumbai,Clothing,Saree,3,697.06,2091.18,Card,Cancelled,2023-04-13
+528,CUST2119,M,40,Mumbai,Clothing,Jeans,3,12695.63,38086.89,Card,Cancelled,2023-10-19
+529,CUST4506,F,52,Pune,Books,Textbook,2,14465.74,28931.48,,Cancelled,2023-02-20
+530,CUST4728,F,40,Delhi,Groceries,Flour,1,10119.21,10119.21,Net Banking,Delivered,2023-09-21
+531,CUST9088,M,41,Kolkata,Sports,Cricket Bat,5,7015.23,35076.15,Cash,Delivered,2023-06-17
+532,CUST4093,M,46,Ahmedabad,Furniture,Bed,3,9025.82,27077.46,Net Banking,Pending,2023-08-08
+533,CUST7468,F,43,Delhi,Sports,Football,4,241.15,964.6,Cash,Delivered,2023-03-15
+534,CUST7958,F,56,Hyderabad,Groceries,Rice,2,5487.46,10974.92,Net Banking,Delivered,2023-04-30
+535,CUST3001,F,49,Ahmedabad,Furniture,Bed,5,5373.65,26868.25,Card,Pending,2023-02-25
+536,CUST1438,M,,Kolkata,Toys,Doll,2,9444.15,18888.3,Cash,Pending,2023-12-14
+537,CUST5809,F,22,Ahmedabad,Sports,Football,5,4576.15,22880.75,Net Banking,Pending,2023-04-14
+538,CUST6153,F,20,Ahmedabad,Furniture,Wardrobe,5,5187.05,25935.25,Cash,Pending,2023-08-19
+539,CUST3203,F,37,Kolkata,Toys,Lego,5,541.25,2706.25,Card,Pending,2023-08-09
+540,CUST3560,M,61,Kolkata,Toys,Lego,4,8554.39,34217.56,Net Banking,Pending,2023-10-15
+541,CUST1461,M,40,Bangalore,Furniture,Bed,4,8886.12,35544.48,UPI,Pending,2023-02-01
+542,CUST8014,F,,Pune,Sports,Yoga Mat,5,12152.82,60764.1,UPI,Pending,2023-02-19
+543,CUST5995,M,59,Pune,Beauty,Lipstick,2,893.92,1787.84,Cash,Cancelled,2023-02-03
+544,CUST8695,M,45,Pune,Groceries,Rice,1,8099.33,8099.33,Net Banking,Pending,2023-01-11
+545,CUST9237,F,49,Bangalore,Beauty,Sunscreen,5,5885.0,29425.0,Card,Pending,2023-09-12
+546,CUST1778,F,22,Kolkata,Furniture,Sofa,2,14542.94,29085.88,Card,Pending,2023-05-16
+547,CUST9700,F,55,Kolkata,Books,Magazine,1,11156.18,11156.18,UPI,Pending,2023-02-04
+548,CUST7591,F,37,Ahmedabad,Books,Comic,3,11944.99,35834.97,UPI,Delivered,2023-08-01
+549,CUST9728,F,54,Mumbai,Groceries,Rice,5,9436.27,47181.35,Net Banking,Pending,2023-11-23
+550,CUST2055,M,61,Kolkata,Books,Comic,2,6964.18,13928.36,Net Banking,Pending,2023-06-13
+551,CUST1453,M,33,Hyderabad,Furniture,Sofa,3,9708.34,29125.02,Cash,Delivered,2023-04-09
+552,CUST5233,F,20,Bangalore,Toys,Puzzle,4,8419.38,33677.52,UPI,Delivered,2023-01-15
+553,CUST6954,M,23,Kolkata,Electronics,Headphones,1,11744.39,11744.39,UPI,Delivered,2023-07-28
+554,CUST4900,M,51,Pune,Groceries,Dal,5,1723.39,8616.95,UPI,Pending,2023-02-16
+555,CUST8200,F,31,Hyderabad,Sports,Badminton,2,11071.68,22143.36,Card,Delivered,2023-05-21
+556,CUST6947,F,45,Pune,Electronics,Headphones,1,8025.38,8025.38,Card,Pending,2023-03-16
+557,CUST4926,F,,Kolkata,Furniture,Chair,5,9698.69,48493.45,Cash,Cancelled,2023-12-10
+558,CUST5186,F,33,Delhi,Furniture,Sofa,1,13552.2,13552.2,Net Banking,Delivered,2023-07-21
+559,CUST2312,F,58,Ahmedabad,Books,Comic,2,3195.28,6390.56,Net Banking,Delivered,2023-05-21
+560,CUST9973,F,62,Ahmedabad,Beauty,Lipstick,1,10774.92,10774.92,Cash,Pending,2023-08-04
+561,CUST6006,F,59,Delhi,Electronics,Laptop,2,9638.52,19277.04,Net Banking,Delivered,2023-11-18
+562,CUST3187,F,61,Bangalore,Clothing,Jeans,2,3781.57,7563.14,UPI,Pending,2023-09-02
+563,CUST4747,M,43,Ahmedabad,Sports,Yoga Mat,4,3020.02,12080.08,Card,Delivered,2023-01-12
+564,CUST7028,M,,Delhi,Books,Comic,2,10533.85,21067.7,UPI,Delivered,2023-02-15
+565,CUST5717,F,49,Kolkata,Electronics,Camera,4,6555.62,26222.48,Card,Delivered,2023-05-17
+566,CUST7693,M,36,Mumbai,Groceries,Flour,5,12852.25,64261.25,Card,Pending,2023-04-03
+567,CUST8682,M,41,Pune,Furniture,Sofa,4,3570.51,14282.04,Net Banking,Delivered,2023-01-06
+568,CUST4847,F,34,Pune,Beauty,Moisturizer,4,10714.37,42857.48,Cash,Delivered,2023-06-20
+569,CUST3938,F,43,Bangalore,Electronics,Laptop,5,3842.17,19210.85,Card,Cancelled,2023-01-22
+570,CUST6132,M,63,Bangalore,Toys,Car,2,13174.56,26349.12,Card,Pending,2023-03-01
+571,CUST8139,M,34,Pune,Toys,Car,4,11229.96,44919.84,UPI,Cancelled,2023-06-10
+572,CUST8704,F,,Bangalore,Toys,Doll,4,8357.34,33429.36,Card,Delivered,2023-01-19
+573,CUST2843,M,,Delhi,Toys,Puzzle,4,1784.56,7138.24,Net Banking,Pending,2023-09-10
+574,CUST4479,M,28,Bangalore,Sports,Cricket Bat,3,3095.82,9287.46,UPI,Cancelled,2023-12-06
+575,CUST2998,F,39,Pune,Beauty,Shampoo,4,3730.05,14920.2,,Cancelled,2023-12-15
+576,CUST1095,F,63,Mumbai,Clothing,Saree,1,2348.94,2348.94,Net Banking,Cancelled,2023-05-18
+577,CUST2158,F,21,Delhi,Toys,Car,5,14213.91,71069.55,UPI,Pending,2023-01-29
+578,CUST3525,M,31,Hyderabad,Beauty,Lipstick,4,2711.26,10845.04,Net Banking,Pending,2023-11-28
+579,CUST4274,F,56,Ahmedabad,Toys,Puzzle,3,11051.54,33154.62,Cash,Pending,2023-09-20
+580,CUST7979,M,45,Mumbai,Beauty,Perfume,5,4063.77,20318.85,Card,Pending,2023-11-19
+581,CUST8165,M,51,Ahmedabad,Sports,Cycle,2,10162.78,20325.56,Cash,Pending,2023-08-28
+582,CUST1738,M,51,Kolkata,Furniture,Table,3,14763.58,44290.74,Cash,Cancelled,2023-02-09
+583,CUST2866,F,40,Bangalore,Beauty,Shampoo,5,6996.61,34983.05,Cash,Cancelled,2023-01-09
+584,CUST5342,F,37,Bangalore,Groceries,Flour,4,726.62,2906.48,Net Banking,Cancelled,2023-08-19
+585,CUST2911,M,61,Bangalore,Books,Textbook,5,1219.4,6097.0,Cash,Delivered,2023-07-22
+586,CUST7471,F,37,Delhi,Toys,Puzzle,5,10392.5,51962.5,UPI,Cancelled,2023-12-11
+587,CUST3378,M,62,Kolkata,Groceries,Dal,1,257.44,257.44,Cash,Delivered,2023-09-04
+588,CUST8295,F,45,Ahmedabad,Books,Novel,4,4548.72,18194.88,,Delivered,2023-03-20
+589,CUST8074,F,43,Ahmedabad,Electronics,Headphones,2,8799.13,17598.26,Cash,Delivered,2023-11-19
+590,CUST9655,M,64,Kolkata,Furniture,Chair,4,7338.07,29352.28,Net Banking,Delivered,2023-02-01
+591,CUST8147,M,25,Bangalore,Sports,Badminton,4,999.48,3997.92,UPI,Pending,2023-12-24
+592,CUST8675,M,32,Hyderabad,Furniture,Table,4,7065.14,28260.56,UPI,Cancelled,2023-12-03
+593,CUST8911,M,28,Bangalore,Beauty,Perfume,3,12504.56,37513.68,UPI,Cancelled,2023-02-14
+594,CUST1297,F,49,Hyderabad,Books,Textbook,1,9105.95,9105.95,Card,Cancelled,2023-01-25
+595,CUST4714,M,,Chennai,Sports,Football,5,2661.99,13309.95,Net Banking,Delivered,2023-11-13
+596,CUST2706,M,53,Ahmedabad,Toys,Car,3,14905.26,44715.78,Card,Cancelled,2023-09-21
+597,CUST3736,M,24,Chennai,Toys,Lego,5,14621.16,73105.8,Cash,Cancelled,2023-02-23
+598,CUST6959,F,49,Bangalore,Sports,Football,4,10938.82,43755.28,Cash,Delivered,2023-11-28
+599,CUST9274,M,18,Delhi,Clothing,Jeans,4,6614.67,26458.68,Net Banking,Pending,2023-05-27
+600,CUST8025,F,60,Kolkata,Furniture,Sofa,4,10742.24,42968.96,Net Banking,Delivered,2023-03-12
+601,CUST2140,M,46,Pune,Toys,Board Game,3,11929.38,35788.14,Cash,Cancelled,2023-09-22
+602,CUST9516,F,43,Kolkata,Sports,Cycle,2,14730.08,29460.16,Card,Cancelled,2023-01-30
+603,CUST8310,M,18,Ahmedabad,Beauty,Sunscreen,3,13109.52,39328.56,Card,Cancelled,2023-07-26
+604,CUST5651,M,52,Delhi,Sports,Cycle,3,11642.24,34926.72,Card,Cancelled,2023-10-04
+605,CUST7926,M,,Mumbai,Furniture,Wardrobe,2,5143.6,10287.2,UPI,Delivered,2023-06-05
+606,CUST1085,F,59,Pune,Sports,Yoga Mat,3,9423.49,28270.47,Net Banking,Pending,2023-10-21
+607,CUST3293,F,32,Chennai,Books,Magazine,5,8505.68,42528.4,UPI,Cancelled,2023-10-21
+608,CUST7751,M,41,Delhi,Clothing,Saree,2,7770.95,15541.9,Card,Cancelled,2023-08-06
+609,CUST9502,F,22,Hyderabad,Electronics,Headphones,4,13333.21,53332.84,Net Banking,Cancelled,2023-10-14
+610,CUST8942,F,44,Bangalore,Toys,Puzzle,4,14947.85,59791.4,Card,Cancelled,2023-03-07
+611,CUST2807,M,53,Pune,Clothing,Jeans,1,6858.71,6858.71,Cash,Cancelled,2023-07-29
+612,CUST3328,F,41,Mumbai,Furniture,Chair,1,7865.52,7865.52,Net Banking,Delivered,2023-03-15
+613,CUST8883,F,,Ahmedabad,Furniture,Sofa,4,3272.94,13091.76,Cash,Delivered,2023-08-02
+614,CUST8357,M,26,Pune,Sports,Cycle,5,7154.65,35773.25,Net Banking,Pending,2023-12-08
+615,CUST5544,M,43,Bangalore,Clothing,Shoes,4,9984.31,39937.24,Cash,Cancelled,2023-08-15
+616,CUST9877,M,25,Chennai,Electronics,Camera,3,9470.13,28410.39,Cash,Delivered,2023-11-13
+617,CUST5018,F,52,Delhi,Toys,Board Game,1,13458.12,13458.12,Cash,Pending,2023-04-16
+618,CUST9649,F,19,Kolkata,Sports,Cycle,4,8853.95,35415.8,Card,Pending,2023-01-13
+619,CUST6026,F,36,Bangalore,Furniture,Chair,1,1763.94,1763.94,UPI,Delivered,2023-03-20
+620,CUST3334,F,,Pune,Electronics,Camera,2,14418.79,28837.58,Net Banking,Delivered,2023-06-13
+621,CUST9264,F,,Delhi,Furniture,Bed,1,14126.58,14126.58,Card,Pending,2023-09-18
+622,CUST1305,F,48,Delhi,Furniture,Chair,5,4809.13,24045.65,,Cancelled,2023-04-30
+623,CUST9854,M,44,Chennai,Books,Magazine,2,9790.69,19581.38,Card,Delivered,2023-07-11
+624,CUST8900,F,57,Hyderabad,Beauty,Sunscreen,1,6803.54,6803.54,Card,Delivered,2023-01-31
+625,CUST2145,F,50,Delhi,Beauty,Lipstick,2,12644.46,25288.92,Card,Cancelled,2023-10-01
+626,CUST5282,F,45,Hyderabad,Beauty,Shampoo,5,12465.95,62329.75,UPI,Cancelled,2023-06-25
+627,CUST1033,F,39,Mumbai,Books,Comic,4,5157.37,20629.48,,Cancelled,2023-03-10
+628,CUST8293,M,52,Pune,Electronics,Phone,4,6226.79,24907.16,Cash,Cancelled,2023-01-16
+629,CUST4161,F,62,Mumbai,Beauty,Sunscreen,2,5401.59,10803.18,Cash,Pending,2023-07-09
+630,CUST6947,M,57,Hyderabad,Books,Novel,3,11388.39,34165.17,Card,Delivered,2023-09-10
+631,CUST9093,M,58,Chennai,Toys,Board Game,2,3175.84,6351.68,UPI,Cancelled,2023-09-14
+632,CUST1378,F,54,Ahmedabad,Groceries,Rice,1,8843.06,8843.06,UPI,Delivered,2023-12-14
+633,CUST9491,F,38,Ahmedabad,Electronics,Headphones,1,9632.45,9632.45,Net Banking,Pending,2023-03-04
+634,CUST7420,M,,Pune,Sports,Badminton,2,11397.37,22794.74,Net Banking,Pending,2023-01-03
+635,CUST6394,F,45,Delhi,Clothing,Shoes,2,12124.71,24249.42,Card,Delivered,2023-03-26
+636,CUST8759,M,58,Pune,Clothing,T-Shirt,1,7225.5,7225.5,UPI,Delivered,2023-02-25
+637,CUST3045,M,56,Mumbai,Electronics,Tablet,2,7819.14,15638.28,Cash,Cancelled,2023-08-17
+638,CUST8075,M,21,Delhi,Electronics,Headphones,1,4733.53,4733.53,Net Banking,Delivered,2023-06-04
+639,CUST1173,F,57,Kolkata,Electronics,Camera,4,830.44,3321.76,Card,Cancelled,2023-12-04
+640,CUST6377,M,59,Delhi,Toys,Puzzle,5,13205.08,66025.4,Cash,Pending,2023-09-22
+641,CUST5198,F,30,Kolkata,Clothing,T-Shirt,1,8947.87,8947.87,Card,Cancelled,2023-09-18
+642,CUST9407,F,20,Hyderabad,Toys,Board Game,2,6697.13,13394.26,UPI,Cancelled,2023-08-12
+643,CUST9308,M,41,Kolkata,Groceries,Dal,5,7069.38,35346.9,Card,Delivered,2023-05-02
+644,CUST8657,F,39,Pune,Sports,Football,2,14648.84,29297.68,Net Banking,Cancelled,2023-12-21
+645,CUST4772,F,20,Chennai,Furniture,Bed,1,4962.85,4962.85,Cash,Cancelled,2023-04-25
+646,CUST1162,M,42,Pune,Books,Dictionary,3,11032.06,33096.18,Card,Delivered,2023-07-05
+647,CUST4262,M,58,Hyderabad,Electronics,Camera,3,1772.08,5316.24,UPI,Delivered,2023-01-16
+648,CUST5289,M,53,Mumbai,Groceries,Dal,2,13286.46,26572.92,Card,Delivered,2023-04-01
+649,CUST3807,F,31,Delhi,Groceries,Flour,1,9840.29,9840.29,Card,Pending,2023-07-10
+650,CUST8037,M,30,Mumbai,Clothing,Jeans,2,13246.71,26493.42,UPI,Pending,2023-11-03
+651,CUST9011,M,21,Delhi,Books,Magazine,2,4448.03,8896.06,UPI,Delivered,2023-09-18
+652,CUST8606,M,59,Pune,Toys,Board Game,5,1019.85,5099.25,UPI,Pending,2023-09-23
+653,CUST4325,F,55,Chennai,Sports,Badminton,4,10432.92,41731.68,Cash,Delivered,2023-04-23
+654,CUST5834,F,41,Pune,Beauty,Moisturizer,4,4624.69,18498.76,Cash,Delivered,2023-02-13
+655,CUST9151,F,45,Hyderabad,Books,Magazine,5,665.09,3325.45,Net Banking,Pending,2023-07-08
+656,CUST9401,M,22,Hyderabad,Beauty,Shampoo,2,2734.51,5469.02,Cash,Pending,2023-09-14
+657,CUST5096,F,,Hyderabad,Books,Novel,3,1822.89,5468.67,Card,Cancelled,2023-06-18
+658,CUST7647,M,18,Ahmedabad,Books,Magazine,5,14970.04,74850.2,UPI,Pending,2023-07-26
+659,CUST6581,M,51,Pune,Groceries,Flour,2,3452.3,6904.6,Net Banking,Cancelled,2023-08-25
+660,CUST3102,F,46,Mumbai,Books,Dictionary,4,11563.46,46253.84,Cash,Pending,2023-03-13
+661,CUST1380,M,43,Bangalore,Toys,Car,4,5130.34,20521.36,UPI,Pending,2023-10-28
+662,CUST2043,F,54,Chennai,Groceries,Oil,5,8544.45,42722.25,Net Banking,Delivered,2023-07-20
+663,CUST3910,M,37,Ahmedabad,Toys,Lego,4,4966.18,19864.72,Cash,Cancelled,2023-10-11
+664,CUST7039,M,32,Bangalore,Electronics,Phone,4,3025.03,12100.12,Cash,Pending,2023-01-30
+665,CUST3128,M,44,Hyderabad,Sports,Cycle,1,5897.02,5897.02,Cash,Pending,2023-04-16
+666,CUST1121,M,55,Ahmedabad,Beauty,Perfume,5,2423.78,12118.9,Net Banking,Pending,2023-04-14
+667,CUST1640,M,54,Hyderabad,Clothing,Jacket,2,9092.49,18184.98,Net Banking,Pending,2023-10-22
+668,CUST8501,F,29,Bangalore,Toys,Car,3,10519.73,31559.19,Card,Cancelled,2023-08-10
+669,CUST4559,F,28,Kolkata,Clothing,Jacket,1,10494.74,10494.74,UPI,Cancelled,2023-02-04
+670,CUST9291,M,38,Ahmedabad,Clothing,Saree,1,1194.18,1194.18,Card,Pending,2023-04-17
+671,CUST1175,F,65,Delhi,Electronics,Laptop,4,9601.06,38404.24,Card,Pending,2023-01-20
+672,CUST3297,F,22,Hyderabad,Groceries,Oil,4,10070.92,40283.68,Card,Cancelled,2023-08-13
+673,CUST1183,F,36,Bangalore,Groceries,Dal,5,12585.51,62927.55,Net Banking,Delivered,2023-02-09
+674,CUST2684,F,52,Hyderabad,Toys,Car,1,2710.21,2710.21,Cash,Cancelled,2023-09-25
+675,CUST2497,M,30,Kolkata,Toys,Lego,1,8993.17,8993.17,UPI,Delivered,2023-04-13
+676,CUST3736,M,22,Kolkata,Electronics,Laptop,2,5089.89,10179.78,Cash,Cancelled,2023-03-27
+677,CUST4502,M,52,Pune,Clothing,Saree,2,4874.06,9748.12,Net Banking,Delivered,2023-04-29
+678,CUST5562,F,,Mumbai,Sports,Football,3,274.17,822.51,Card,Delivered,2023-12-03
+679,CUST6314,F,24,Bangalore,Clothing,Jeans,5,6195.9,30979.5,Card,Pending,2023-02-18
+680,CUST8354,F,60,Chennai,Sports,Football,3,9548.53,28645.59,UPI,Delivered,2023-11-08
+681,CUST1981,M,65,Pune,Electronics,Phone,1,367.14,367.14,Card,Cancelled,2023-02-10
+682,CUST3199,F,20,Pune,Toys,Car,4,3070.08,12280.32,Net Banking,Cancelled,2023-06-18
+683,CUST6615,M,36,Chennai,Electronics,Camera,4,11887.11,47548.44,Card,Cancelled,2023-06-19
+684,CUST1099,M,42,Ahmedabad,Electronics,Phone,2,12031.7,24063.4,Card,Pending,2023-11-19
+685,CUST2280,F,26,Ahmedabad,Clothing,Jeans,2,829.0,1658.0,Card,Delivered,2023-09-17
+686,CUST4299,F,56,Ahmedabad,Furniture,Table,2,10839.02,21678.04,UPI,Cancelled,2023-08-18
+687,CUST1324,F,45,Kolkata,Clothing,Saree,2,6003.75,12007.5,Net Banking,Delivered,2023-09-04
+688,CUST5640,F,29,Ahmedabad,Clothing,Saree,2,8947.99,17895.98,Net Banking,Pending,2023-08-21
+689,CUST9051,F,30,Kolkata,Clothing,Saree,4,2093.01,8372.04,,Cancelled,2023-07-11
+690,CUST3660,M,55,Kolkata,Beauty,Lipstick,3,5791.36,17374.08,Cash,Delivered,2023-07-17
+691,CUST4970,F,41,Mumbai,Furniture,Sofa,4,7668.65,30674.6,Net Banking,Pending,2023-05-07
+692,CUST3644,M,47,Delhi,Sports,Cricket Bat,2,10477.2,20954.4,Card,Pending,2023-05-07
+693,CUST7993,F,23,Hyderabad,Clothing,Jacket,5,5995.12,29975.6,Card,Pending,2023-03-26
+694,CUST6642,M,64,Hyderabad,Beauty,Sunscreen,4,4654.28,18617.12,Cash,Cancelled,2023-10-21
+695,CUST7845,F,49,Hyderabad,Books,Dictionary,1,10500.18,10500.18,,Delivered,2023-12-23
+696,CUST4482,M,30,Chennai,Beauty,Moisturizer,2,2687.2,5374.4,Cash,Pending,2023-10-18
+697,CUST2307,F,44,Delhi,Electronics,Phone,2,12147.22,24294.44,Cash,Cancelled,2023-03-27
+698,CUST1155,M,,Hyderabad,Beauty,Shampoo,3,4187.59,12562.77,Net Banking,Cancelled,2023-02-21
+699,CUST5355,F,51,Ahmedabad,Electronics,Camera,1,11848.65,11848.65,Net Banking,Cancelled,2023-09-24
+700,CUST7528,F,39,Mumbai,Sports,Badminton,3,6470.33,19410.99,Card,Pending,2023-12-07
+701,CUST3013,F,62,Chennai,Sports,Yoga Mat,1,12103.74,12103.74,Card,Delivered,2023-11-05
+702,CUST6901,M,60,Pune,Sports,Cycle,4,9294.36,37177.44,UPI,Delivered,2023-11-21
+703,CUST2645,F,23,Hyderabad,Toys,Doll,4,9121.11,36484.44,Net Banking,Cancelled,2023-12-25
+704,CUST5937,F,63,Bangalore,Books,Textbook,5,13054.39,65271.95,Card,Pending,2023-02-14
+705,CUST1478,M,31,Pune,Toys,Lego,5,7258.42,36292.1,Cash,Delivered,2023-08-11
+706,CUST9060,M,60,Pune,Beauty,Lipstick,3,3344.62,10033.86,Card,Cancelled,2023-11-21
+707,CUST8159,M,39,Chennai,Books,Magazine,5,11506.74,57533.7,Net Banking,Cancelled,2023-11-25
+708,CUST7025,M,65,Pune,Furniture,Chair,1,4400.1,4400.1,Card,Cancelled,2023-03-01
+709,CUST6980,M,52,Chennai,Beauty,Sunscreen,3,11066.92,33200.76,Net Banking,Pending,2023-06-13
+710,CUST3415,F,36,Bangalore,Clothing,Jacket,4,187.37,749.48,Net Banking,Cancelled,2023-08-22
+711,CUST9110,F,25,Kolkata,Electronics,Camera,5,4836.08,24180.4,Net Banking,Cancelled,2023-04-21
+712,CUST7419,F,32,Bangalore,Electronics,Tablet,2,2332.9,4665.8,Cash,Delivered,2023-09-07
+713,CUST5637,F,40,Chennai,Electronics,Camera,4,5914.67,23658.68,Net Banking,Delivered,2023-09-28
+714,CUST3681,M,21,Ahmedabad,Beauty,Shampoo,5,2006.97,10034.85,UPI,Pending,2023-12-02
+715,CUST2670,M,65,Kolkata,Toys,Car,2,13463.41,26926.82,Cash,Pending,2023-10-22
+716,CUST6545,F,48,Bangalore,Beauty,Moisturizer,1,13893.48,13893.48,Cash,Delivered,2023-09-21
+717,CUST2468,F,37,Kolkata,Beauty,Moisturizer,2,558.19,1116.38,Card,Cancelled,2023-07-12
+718,CUST8856,F,25,Delhi,Furniture,Bed,1,5541.48,5541.48,Card,Delivered,2023-10-28
+719,CUST4029,F,26,Mumbai,Groceries,Flour,4,7288.66,29154.64,Cash,Cancelled,2023-10-03
+720,CUST2922,M,51,Bangalore,Beauty,Sunscreen,5,12271.07,61355.35,Cash,Delivered,2023-12-04
+721,CUST5206,M,26,Delhi,Electronics,Camera,3,6736.13,20208.39,Card,Delivered,2023-10-15
+722,CUST9510,F,60,Ahmedabad,Clothing,Shoes,5,4513.74,22568.7,,Pending,2023-01-24
+723,CUST1732,M,40,Mumbai,Groceries,Sugar,3,7382.12,22146.36,Card,Cancelled,2023-02-20
+724,CUST7914,M,56,Hyderabad,Books,Textbook,2,4530.65,9061.3,UPI,Pending,2023-03-07
+725,CUST9780,M,23,Delhi,Furniture,Bed,2,9764.05,19528.1,Net Banking,Cancelled,2023-03-15
+726,CUST8104,F,50,Mumbai,Furniture,Table,5,10730.95,53654.75,Net Banking,Delivered,2023-06-11
+727,CUST6944,F,53,Hyderabad,Books,Novel,5,4088.37,20441.85,UPI,Cancelled,2023-02-15
+728,CUST9625,F,32,Ahmedabad,Groceries,Dal,1,4141.02,4141.02,Cash,Delivered,2023-03-31
+729,CUST6210,F,53,Bangalore,Clothing,Shoes,5,5266.06,26330.3,Cash,Delivered,2023-03-29
+730,CUST3337,F,26,Hyderabad,Sports,Badminton,4,8297.49,33189.96,Card,Cancelled,2023-03-06
+731,CUST8678,F,44,Hyderabad,Electronics,Tablet,2,10627.16,21254.32,Card,Pending,2023-07-01
+732,CUST2302,M,23,Chennai,Beauty,Sunscreen,2,14128.07,28256.14,Net Banking,Pending,2023-02-16
+733,CUST9334,M,53,Ahmedabad,Clothing,Jeans,1,8650.98,8650.98,Cash,Pending,2023-12-13
+734,CUST7962,F,43,Chennai,Toys,Board Game,5,10292.57,51462.85,,Delivered,2023-01-04
+735,CUST3184,F,51,Mumbai,Electronics,Camera,2,6757.35,13514.7,Card,Delivered,2023-07-07
+736,CUST5752,F,39,Ahmedabad,Beauty,Perfume,3,5717.47,17152.41,Card,Cancelled,2023-03-02
+737,CUST8999,M,37,Pune,Furniture,Sofa,5,3235.34,16176.7,Cash,Pending,2023-11-13
+738,CUST1145,M,18,Kolkata,Electronics,Camera,3,6932.29,20796.87,Card,Pending,2023-07-01
+739,CUST5098,M,44,Ahmedabad,Toys,Doll,5,1316.92,6584.6,Net Banking,Delivered,2023-03-21
+740,CUST8198,M,52,Bangalore,Beauty,Lipstick,4,4524.31,18097.24,Cash,Pending,2023-12-03
+741,CUST1517,M,36,Chennai,Sports,Cycle,2,136.86,273.72,Net Banking,Pending,2023-06-19
+742,CUST7370,M,61,Delhi,Toys,Car,4,1825.94,7303.76,UPI,Pending,2023-09-14
+743,CUST1131,F,61,Ahmedabad,Clothing,T-Shirt,3,1935.55,5806.65,UPI,Pending,2023-11-02
+744,CUST2884,F,27,Chennai,Furniture,Sofa,4,7314.64,29258.56,Card,Delivered,2023-05-24
+745,CUST3436,M,50,Delhi,Beauty,Moisturizer,1,7134.7,7134.7,Card,Cancelled,2023-11-19
+746,CUST1834,F,45,Kolkata,Groceries,Flour,2,623.58,1247.16,,Delivered,2023-02-16
+747,CUST5411,F,50,Hyderabad,Furniture,Table,4,3365.54,13462.16,Cash,Pending,2023-02-26
+748,CUST8734,F,18,Delhi,Sports,Cycle,1,3742.18,3742.18,UPI,Delivered,2023-05-27
+749,CUST3134,F,37,Pune,Beauty,Moisturizer,4,3821.33,15285.32,Cash,Cancelled,2023-10-10
+750,CUST3137,M,35,Mumbai,Sports,Badminton,3,7956.49,23869.47,Net Banking,Delivered,2023-02-24
+751,CUST4309,M,52,Mumbai,Books,Textbook,1,10584.67,10584.67,UPI,Cancelled,2023-08-31
+752,CUST2923,F,53,Delhi,Groceries,Dal,3,6302.28,18906.84,UPI,Pending,2023-11-19
+753,CUST1996,M,28,Kolkata,Toys,Puzzle,5,7880.25,39401.25,Card,Pending,2023-01-24
+754,CUST5448,M,50,Bangalore,Toys,Board Game,1,13060.32,13060.32,Net Banking,Pending,2023-11-07
+755,CUST5855,F,50,Delhi,Electronics,Phone,5,8599.87,42999.35,UPI,Pending,2023-04-23
+756,CUST1844,M,58,Chennai,Groceries,Dal,2,731.91,1463.82,UPI,Delivered,2023-05-19
+757,CUST7690,F,38,Pune,Clothing,T-Shirt,5,9747.25,48736.25,UPI,Cancelled,2023-03-10
+758,CUST2743,F,35,Hyderabad,Electronics,Laptop,2,12367.78,24735.56,Cash,Cancelled,2023-12-03
+759,CUST4796,F,58,Pune,Books,Dictionary,3,3348.55,10045.65,Net Banking,Delivered,2023-08-17
+760,CUST5621,M,29,Hyderabad,Groceries,Flour,2,1450.68,2901.36,Net Banking,Cancelled,2023-04-03
+761,CUST7594,M,27,Bangalore,Groceries,Dal,5,12271.61,61358.05,Card,Pending,2023-11-27
+762,CUST2369,F,,Bangalore,Electronics,Camera,4,1540.96,6163.84,Cash,Delivered,2023-05-08
+763,CUST8871,F,39,Bangalore,Electronics,Laptop,1,14366.38,14366.38,Cash,Delivered,2023-03-13
+764,CUST2684,F,,Delhi,Furniture,Sofa,2,7209.68,14419.36,Cash,Delivered,2023-01-23
+765,CUST5699,M,,Kolkata,Beauty,Moisturizer,2,68.1,136.2,Card,Pending,2023-12-02
+766,CUST2389,M,36,Bangalore,Clothing,Jacket,1,2584.91,2584.91,UPI,Delivered,2023-07-04
+767,CUST6707,M,45,Hyderabad,Groceries,Flour,5,7980.69,39903.45,UPI,Cancelled,2023-05-27
+768,CUST7399,F,27,Ahmedabad,Toys,Car,1,13996.58,13996.58,Card,Pending,2023-03-17
+769,CUST6231,F,38,Kolkata,Clothing,T-Shirt,3,8688.75,26066.25,Card,Pending,2023-06-30
+770,CUST9144,F,59,Chennai,Toys,Puzzle,3,9046.06,27138.18,Net Banking,Pending,2023-10-09
+771,CUST4853,F,62,Mumbai,Beauty,Shampoo,4,8735.41,34941.64,Card,Cancelled,2023-02-14
+772,CUST5828,F,25,Bangalore,Books,Novel,4,5467.86,21871.44,UPI,Pending,2023-03-13
+773,CUST7958,F,,Mumbai,Beauty,Moisturizer,2,3200.52,6401.04,Card,Pending,2023-01-14
+774,CUST2262,M,19,Kolkata,Clothing,Shoes,5,1152.87,5764.35,Card,Delivered,2023-05-06
+775,CUST8274,M,62,Hyderabad,Groceries,Dal,2,7072.98,14145.96,Net Banking,Pending,2023-06-22
+776,CUST8443,F,29,Hyderabad,Clothing,Jeans,1,947.01,947.01,Cash,Pending,2023-08-05
+777,CUST7560,M,51,Chennai,Books,Dictionary,3,13975.18,41925.54,Card,Cancelled,2023-04-19
+778,CUST7637,F,22,Bangalore,Beauty,Moisturizer,5,12346.45,61732.25,Net Banking,Pending,2023-06-10
+779,CUST5623,M,24,Delhi,Electronics,Tablet,2,9717.38,19434.76,UPI,Delivered,2023-05-03
+780,CUST2393,M,30,Ahmedabad,Clothing,Jeans,3,8976.81,26930.43,Cash,Delivered,2023-05-18
+781,CUST4192,F,,Kolkata,Electronics,Laptop,3,4752.98,14258.94,UPI,Pending,2023-09-14
+782,CUST7260,F,65,Mumbai,Sports,Football,1,10554.72,10554.72,Card,Delivered,2023-10-28
+783,CUST3307,M,58,Pune,Furniture,Table,4,2315.49,9261.96,Card,Delivered,2023-12-15
+784,CUST2228,M,45,Ahmedabad,Toys,Doll,3,5118.36,15355.08,Net Banking,Delivered,2023-04-17
+785,CUST5843,M,23,Delhi,Clothing,T-Shirt,3,2182.21,6546.63,Net Banking,Pending,2023-03-28
+786,CUST8242,M,63,Delhi,Furniture,Wardrobe,1,5481.76,5481.76,UPI,Pending,2023-05-12
+787,CUST9396,F,57,Pune,Toys,Lego,3,5483.91,16451.73,Card,Pending,2023-07-07
+788,CUST1130,M,61,Delhi,Clothing,Jacket,3,7613.84,22841.52,Cash,Cancelled,2023-05-06
+789,CUST6716,F,32,Ahmedabad,Furniture,Bed,4,2415.18,9660.72,Net Banking,Cancelled,2023-02-17
+790,CUST2056,F,43,Pune,Toys,Lego,1,1333.05,1333.05,Card,Pending,2023-06-18
+791,CUST3384,M,47,Pune,Toys,Doll,4,10549.25,42197.0,,Delivered,2023-08-29
+792,CUST4465,M,41,Kolkata,Electronics,Camera,1,11624.37,11624.37,Net Banking,Delivered,2023-01-28
+793,CUST7876,M,35,Hyderabad,Furniture,Sofa,1,9553.53,9553.53,UPI,Cancelled,2023-08-20
+794,CUST8790,M,37,Kolkata,Groceries,Rice,4,1432.0,5728.0,UPI,Pending,2023-09-04
+795,CUST6185,M,56,Bangalore,Sports,Badminton,1,5867.61,5867.61,Card,Pending,2023-12-07
+796,CUST8361,M,61,Mumbai,Toys,Doll,3,7516.71,22550.13,Cash,Pending,2023-03-06
+797,CUST1235,F,56,Pune,Books,Textbook,5,6331.63,31658.15,UPI,Delivered,2023-04-08
+798,CUST6762,F,25,Kolkata,Electronics,Tablet,5,13454.99,67274.95,Net Banking,Pending,2023-07-30
+799,CUST7251,F,29,Kolkata,Sports,Cricket Bat,4,13898.92,55595.68,Card,Cancelled,2023-08-12
+800,CUST2698,F,24,Delhi,Furniture,Wardrobe,1,14071.63,14071.63,Cash,Cancelled,2023-07-30
+801,CUST2875,M,44,Ahmedabad,Toys,Board Game,1,8739.44,8739.44,Net Banking,Cancelled,2023-07-15
+802,CUST4668,F,59,Hyderabad,Clothing,Saree,4,14515.86,58063.44,Net Banking,Delivered,2023-07-11
+803,CUST1430,M,18,Pune,Furniture,Sofa,4,12585.34,50341.36,Net Banking,Delivered,2023-01-08
+804,CUST7444,M,33,Kolkata,Sports,Yoga Mat,5,2597.64,12988.2,Net Banking,Delivered,2023-11-12
+805,CUST3069,M,38,Kolkata,Groceries,Flour,2,14661.47,29322.94,Net Banking,Delivered,2023-02-20
+806,CUST3507,M,23,Delhi,Furniture,Wardrobe,3,2427.84,7283.52,,Delivered,2023-11-18
+807,CUST4633,F,58,Chennai,Beauty,Shampoo,2,11147.98,22295.96,UPI,Delivered,2023-05-03
+808,CUST3010,M,27,Bangalore,Books,Dictionary,1,11567.35,11567.35,Cash,Delivered,2023-08-24
+809,CUST9045,M,41,Kolkata,Furniture,Sofa,1,13424.34,13424.34,Card,Pending,2023-02-21
+810,CUST3639,M,44,Hyderabad,Clothing,Jacket,1,14390.3,14390.3,UPI,Cancelled,2023-08-19
+811,CUST9953,M,25,Bangalore,Electronics,Phone,5,9912.01,49560.05,UPI,Pending,2023-11-11
+812,CUST2880,M,51,Mumbai,Furniture,Chair,1,2933.04,2933.04,Card,Delivered,2023-07-06
+813,CUST5822,F,48,Ahmedabad,Sports,Football,2,3335.43,6670.86,Cash,Pending,2023-12-29
+814,CUST6105,M,30,Chennai,Beauty,Sunscreen,2,14197.87,28395.74,UPI,Pending,2023-02-22
+815,CUST8033,M,35,Pune,Toys,Puzzle,4,13248.72,52994.88,Cash,Cancelled,2023-07-16
+816,CUST9691,F,34,Kolkata,Sports,Cricket Bat,1,6768.58,6768.58,UPI,Cancelled,2023-11-27
+817,CUST7089,F,29,Bangalore,Electronics,Laptop,3,2739.57,8218.71,Cash,Delivered,2023-12-03
+818,CUST2085,F,31,Hyderabad,Sports,Cricket Bat,1,194.01,194.01,UPI,Delivered,2023-10-15
+819,CUST7909,F,56,Pune,Books,Magazine,5,3301.08,16505.4,Cash,Cancelled,2023-11-27
+820,CUST6355,F,35,Chennai,Sports,Football,4,2996.99,11987.96,Cash,Pending,2023-03-29
+821,CUST9642,M,47,Pune,Electronics,Tablet,5,316.65,1583.25,Net Banking,Delivered,2023-10-01
+822,CUST6131,F,35,Mumbai,Electronics,Laptop,4,7074.91,28299.64,UPI,Pending,2023-02-10
+823,CUST2683,M,59,Chennai,Beauty,Lipstick,4,10462.03,41848.12,Cash,Pending,2023-11-13
+824,CUST7043,M,64,Mumbai,Electronics,Laptop,3,2124.08,6372.24,Card,Delivered,2023-04-08
+825,CUST3790,M,39,Ahmedabad,Furniture,Chair,3,1706.51,5119.53,Net Banking,Pending,2023-12-24
+826,CUST4940,F,44,Ahmedabad,Clothing,Jeans,2,4824.02,9648.04,Cash,Cancelled,2023-09-28
+827,CUST4971,M,34,Delhi,Furniture,Sofa,4,11601.03,46404.12,Cash,Pending,2023-10-13
+828,CUST6577,M,47,Pune,Clothing,Jacket,1,950.99,950.99,Card,Pending,2023-02-23
+829,CUST9412,M,26,Kolkata,Furniture,Bed,5,9846.58,49232.9,UPI,Pending,2023-08-20
+830,CUST2805,M,54,Mumbai,Books,Novel,2,4203.68,8407.36,Card,Pending,2023-02-24
+831,CUST6806,F,46,Chennai,Toys,Doll,4,4038.01,16152.04,Cash,Cancelled,2023-02-13
+832,CUST7267,F,46,Chennai,Groceries,Flour,5,7557.75,37788.75,Cash,Delivered,2023-11-29
+833,CUST1817,M,56,Delhi,Furniture,Table,5,6070.25,30351.25,Net Banking,Delivered,2023-12-15
+834,CUST7628,F,33,Kolkata,Books,Novel,1,844.41,844.41,Cash,Pending,2023-04-26
+835,CUST5718,M,28,Delhi,Clothing,Jeans,3,11022.17,33066.51,UPI,Cancelled,2023-05-28
+836,CUST2137,M,37,Bangalore,Groceries,Sugar,5,13621.35,68106.75,Card,Delivered,2023-06-11
+837,CUST3797,M,45,Pune,Sports,Cycle,1,2170.41,2170.41,Card,Pending,2023-02-09
+838,CUST9243,M,20,Bangalore,Toys,Board Game,2,65.05,130.1,UPI,Delivered,2023-09-26
+839,CUST5153,F,65,Ahmedabad,Clothing,T-Shirt,3,4603.8,13811.4,UPI,Cancelled,2023-09-07
+840,CUST9508,M,60,Bangalore,Electronics,Tablet,3,4551.95,13655.85,Net Banking,Delivered,2023-05-19
+841,CUST2462,M,19,Kolkata,Beauty,Moisturizer,2,9907.54,19815.08,Net Banking,Pending,2023-04-16
+842,CUST6715,F,46,Kolkata,Clothing,Saree,5,13163.3,65816.5,Card,Pending,2023-12-14
+843,CUST6685,F,62,Delhi,Beauty,Lipstick,1,4674.38,4674.38,Cash,Pending,2023-08-21
+844,CUST3664,F,27,Ahmedabad,Electronics,Headphones,2,13912.13,27824.26,UPI,Cancelled,2023-10-13
+845,CUST6010,M,31,Kolkata,Furniture,Chair,1,12006.79,12006.79,Cash,Delivered,2023-09-08
+846,CUST3337,M,36,Kolkata,Sports,Cricket Bat,2,796.04,1592.08,Card,Delivered,2023-05-19
+847,CUST2607,F,33,Hyderabad,Clothing,Saree,4,3321.92,13287.68,Net Banking,Pending,2023-07-24
+848,CUST7820,M,26,Hyderabad,Furniture,Table,3,8480.42,25441.26,Card,Pending,2023-03-11
+849,CUST9627,F,42,Pune,Furniture,Chair,4,4495.15,17980.6,Net Banking,Delivered,2023-03-12
+850,CUST3303,F,44,Chennai,Sports,Cycle,4,5345.2,21380.8,Cash,Pending,2023-02-15
+851,CUST1097,F,21,Ahmedabad,Sports,Football,5,9332.3,46661.5,Net Banking,Delivered,2023-07-26
+852,CUST1997,M,24,Mumbai,Electronics,Laptop,1,867.66,867.66,Net Banking,Cancelled,2023-06-19
+853,CUST6093,M,61,Ahmedabad,Books,Magazine,4,2205.07,8820.28,Card,Pending,2023-11-18
+854,CUST8761,M,25,Ahmedabad,Books,Novel,2,1053.77,2107.54,Card,Delivered,2023-02-23
+855,CUST8194,M,29,Kolkata,Beauty,Shampoo,3,13894.36,41683.08,UPI,Cancelled,2023-12-15
+856,CUST5751,F,65,Delhi,Groceries,Rice,2,2812.88,5625.76,Card,Pending,2023-09-03
+857,CUST5643,F,24,Delhi,Toys,Car,4,10032.11,40128.44,Net Banking,Delivered,2023-01-15
+858,CUST8666,F,60,Hyderabad,Beauty,Shampoo,1,8729.04,8729.04,Cash,Pending,2023-03-13
+859,CUST3480,F,63,Pune,Electronics,Phone,5,5398.33,26991.65,Cash,Delivered,2023-12-02
+860,CUST3955,F,22,Bangalore,Toys,Doll,3,4211.19,12633.57,Net Banking,Pending,2023-08-30
+861,CUST4796,M,43,Delhi,Sports,Badminton,3,14330.16,42990.48,Cash,Cancelled,2023-03-23
+862,CUST7882,M,64,Mumbai,Toys,Puzzle,2,4888.71,9777.42,Cash,Delivered,2023-07-16
+863,CUST2763,F,41,Kolkata,Furniture,Chair,1,609.4,609.4,Cash,Delivered,2023-06-14
+864,CUST8111,M,46,Delhi,Groceries,Sugar,2,8369.2,16738.4,Card,Delivered,2023-03-24
+865,CUST9653,F,41,Chennai,Electronics,Laptop,2,3092.92,6185.84,Cash,Pending,2023-04-05
+866,CUST8004,F,57,Delhi,Books,Magazine,5,12422.26,62111.3,Card,Delivered,2023-08-13
+867,CUST5749,F,49,Kolkata,Clothing,Jeans,3,11746.69,35240.07,UPI,Delivered,2023-04-25
+868,CUST9192,F,22,Kolkata,Sports,Cricket Bat,2,13093.02,26186.04,Card,Cancelled,2023-11-09
+869,CUST5274,M,34,Pune,Electronics,Camera,1,10477.89,10477.89,Cash,Pending,2023-08-04
+870,CUST2194,M,60,Pune,Electronics,Phone,3,3103.29,9309.87,Cash,Delivered,2023-09-10
+871,CUST2704,M,53,Ahmedabad,Clothing,Jacket,5,8992.31,44961.55,Card,Pending,2023-01-22
+872,CUST4214,F,32,Mumbai,Books,Comic,3,6501.16,19503.48,,Delivered,2023-01-14
+873,CUST2933,F,45,Pune,Toys,Lego,4,5837.52,23350.08,Card,Delivered,2023-08-13
+874,CUST1750,M,23,Chennai,Books,Comic,1,6576.05,6576.05,Card,Pending,2023-10-02
+875,CUST7517,F,20,Delhi,Electronics,Laptop,4,896.99,3587.96,Card,Pending,2023-03-08
+876,CUST5959,F,63,Hyderabad,Clothing,T-Shirt,5,3790.47,18952.35,UPI,Delivered,2023-08-16
+877,CUST8966,F,50,Delhi,Books,Magazine,3,13400.03,40200.09,UPI,Pending,2023-12-28
+878,CUST1587,M,65,Ahmedabad,Books,Textbook,5,12629.31,63146.55,Cash,Pending,2023-03-14
+879,CUST7290,F,55,Mumbai,Toys,Lego,1,368.28,368.28,Cash,Delivered,2023-05-23
+880,CUST1512,F,29,Mumbai,Beauty,Perfume,2,6688.1,13376.2,Cash,Cancelled,2023-06-06
+881,CUST2789,F,19,Hyderabad,Sports,Yoga Mat,5,12163.14,60815.7,Net Banking,Pending,2023-01-30
+882,CUST3160,M,34,Hyderabad,Toys,Puzzle,5,8610.41,43052.05,Net Banking,Pending,2023-05-02
+883,CUST5104,M,54,Delhi,Furniture,Chair,5,14982.15,74910.75,UPI,Pending,2023-05-18
+884,CUST1606,F,46,Ahmedabad,Furniture,Wardrobe,3,9928.61,29785.83,Net Banking,Delivered,2023-08-27
+885,CUST5227,F,57,Hyderabad,Books,Dictionary,1,925.84,925.84,Cash,Pending,2023-04-03
+886,CUST1630,M,57,Ahmedabad,Toys,Doll,2,3449.91,6899.82,Card,Delivered,2023-12-02
+887,CUST6789,M,63,Chennai,Sports,Cricket Bat,2,8323.45,16646.9,UPI,Delivered,2023-12-14
+888,CUST7815,M,22,Kolkata,Sports,Cricket Bat,4,1208.31,4833.24,UPI,Cancelled,2023-07-10
+889,CUST1510,M,39,Pune,Furniture,Table,5,419.18,2095.9,UPI,Pending,2023-05-31
+890,CUST6636,M,,Kolkata,Electronics,Tablet,5,13958.11,69790.55,UPI,Cancelled,2023-09-18
+891,CUST9646,M,32,Ahmedabad,Electronics,Phone,1,5747.29,5747.29,Net Banking,Cancelled,2023-03-04
+892,CUST6157,M,33,Chennai,Toys,Car,5,4074.28,20371.4,UPI,Delivered,2023-08-22
+893,CUST8355,F,22,Chennai,Toys,Puzzle,3,5460.12,16380.36,Net Banking,Cancelled,2023-04-28
+894,CUST6142,M,60,Delhi,Groceries,Sugar,4,3711.91,14847.64,UPI,Pending,2023-06-24
+895,CUST1254,M,58,Delhi,Beauty,Perfume,2,7600.14,15200.28,Card,Delivered,2023-08-21
+896,CUST3735,M,26,Bangalore,Beauty,Lipstick,4,11494.37,45977.48,Net Banking,Delivered,2023-12-20
+897,CUST2765,M,33,Delhi,Beauty,Perfume,4,5347.8,21391.2,Cash,Pending,2023-06-22
+898,CUST4005,M,45,Bangalore,Sports,Cycle,4,13664.58,54658.32,Net Banking,Cancelled,2023-03-10
+899,CUST5871,F,46,Pune,Electronics,Camera,4,8916.07,35664.28,UPI,Delivered,2023-04-29
+900,CUST3346,M,45,Chennai,Electronics,Camera,5,7789.28,38946.4,Net Banking,Pending,2023-04-02
+901,CUST8973,F,40,Chennai,Beauty,Sunscreen,5,4209.93,21049.65,Cash,Pending,2023-05-21
+902,CUST4388,M,24,Mumbai,Groceries,Oil,3,14091.11,42273.33,UPI,Delivered,2023-02-19
+903,CUST5617,F,,Ahmedabad,Electronics,Camera,2,8091.84,16183.68,Cash,Pending,2023-04-15
+904,CUST2423,M,25,Hyderabad,Groceries,Flour,1,4459.38,4459.38,Net Banking,Pending,2023-05-15
+905,CUST9402,M,38,Pune,Clothing,Saree,2,12064.43,24128.86,UPI,Pending,2023-08-21
+906,CUST1130,M,53,Bangalore,Electronics,Headphones,5,1551.56,7757.8,Cash,Cancelled,2023-11-18
+907,CUST4253,M,49,Chennai,Beauty,Moisturizer,3,10116.55,30349.65,Net Banking,Pending,2023-03-09
+908,CUST7230,M,63,Pune,Electronics,Headphones,5,1055.56,5277.8,Net Banking,Cancelled,2023-05-15
+909,CUST7425,F,32,Ahmedabad,Toys,Board Game,2,9871.27,19742.54,Net Banking,Pending,2023-11-19
+910,CUST8614,F,46,Delhi,Furniture,Chair,3,3323.01,9969.03,Net Banking,Delivered,2023-04-01
+911,CUST5389,M,49,Kolkata,Sports,Cycle,4,10587.04,42348.16,Card,Delivered,2023-05-29
+912,CUST5271,M,44,Hyderabad,Electronics,Camera,3,11588.39,34765.17,Net Banking,Pending,2023-07-24
+913,CUST2807,F,44,Bangalore,Toys,Doll,1,5130.63,5130.63,Card,Cancelled,2023-04-16
+914,CUST9497,M,39,Pune,Electronics,Laptop,1,12046.07,12046.07,Cash,Cancelled,2023-01-26
+915,CUST7773,M,32,Chennai,Books,Textbook,4,12580.33,50321.32,Card,Pending,2023-06-19
+916,CUST5939,M,43,Chennai,Electronics,Laptop,5,12689.96,63449.8,Cash,Delivered,2023-05-25
+917,CUST2391,M,42,Delhi,Books,Novel,1,4123.25,4123.25,Card,Cancelled,2023-05-19
+918,CUST6114,F,27,Kolkata,Beauty,Shampoo,5,270.39,1351.95,Net Banking,Delivered,2023-11-07
+919,CUST2524,M,59,Kolkata,Electronics,Tablet,2,4147.04,8294.08,Net Banking,Pending,2023-08-08
+920,CUST7106,M,42,Ahmedabad,Furniture,Bed,5,4302.12,21510.6,,Pending,2023-07-21
+921,CUST6446,M,46,Delhi,Books,Magazine,4,14629.1,58516.4,Cash,Cancelled,2023-06-09
+922,CUST4808,M,23,Ahmedabad,Clothing,Shoes,4,2580.37,10321.48,Net Banking,Cancelled,2023-10-18
+923,CUST4427,F,20,Ahmedabad,Furniture,Bed,3,4706.25,14118.75,Net Banking,Delivered,2023-05-18
+924,CUST2269,F,65,Bangalore,Sports,Football,4,4861.48,19445.92,Cash,Delivered,2023-08-06
+925,CUST9113,M,46,Ahmedabad,Electronics,Phone,1,7823.09,7823.09,Cash,Delivered,2023-08-06
+926,CUST7088,M,45,Bangalore,Groceries,Sugar,1,6301.3,6301.3,UPI,Cancelled,2023-06-15
+927,CUST4450,F,41,Bangalore,Furniture,Wardrobe,5,10291.11,51455.55,UPI,Pending,2023-08-25
+928,CUST1091,F,,Chennai,Groceries,Sugar,4,10740.47,42961.88,Card,Pending,2023-02-04
+929,CUST4703,F,57,Mumbai,Books,Novel,3,8089.09,24267.27,Card,Delivered,2023-06-29
+930,CUST9864,M,37,Delhi,Books,Comic,4,4298.6,17194.4,Net Banking,Pending,2023-10-15
+931,CUST5542,F,54,Chennai,Groceries,Rice,3,10973.34,32920.02,Net Banking,Pending,2023-10-22
+932,CUST6297,M,57,Mumbai,Groceries,Rice,2,11761.31,23522.62,Card,Pending,2023-01-01
+933,CUST7442,F,38,Kolkata,Groceries,Sugar,4,12118.15,48472.6,Cash,Delivered,2023-10-14
+934,CUST5550,M,23,Kolkata,Toys,Car,5,4710.84,23554.2,Card,Delivered,2023-11-21
+935,CUST6991,F,53,Pune,Toys,Puzzle,3,10441.74,31325.22,UPI,Delivered,2023-01-13
+936,CUST6914,M,29,Mumbai,Beauty,Moisturizer,2,9273.76,18547.52,Cash,Delivered,2023-08-15
+937,CUST5504,F,50,Kolkata,Furniture,Sofa,3,1456.92,4370.76,UPI,Delivered,2023-11-28
+938,CUST8446,F,19,Bangalore,Electronics,Tablet,1,4148.9,4148.9,Net Banking,Cancelled,2023-11-20
+939,CUST3156,M,57,Kolkata,Toys,Board Game,1,12121.09,12121.09,Card,Cancelled,2023-04-01
+940,CUST1273,F,52,Pune,Clothing,T-Shirt,1,6678.5,6678.5,Card,Cancelled,2023-11-11
+941,CUST9216,M,60,Hyderabad,Groceries,Sugar,3,10845.93,32537.79,Cash,Delivered,2023-04-09
+942,CUST6098,F,62,Pune,Clothing,Jeans,3,6678.81,20036.43,Card,Cancelled,2023-01-02
+943,CUST4041,F,47,Mumbai,Clothing,Saree,1,7020.47,7020.47,Cash,Delivered,2023-02-14
+944,CUST4130,M,64,Hyderabad,Groceries,Rice,3,3302.01,9906.03,UPI,Cancelled,2023-11-25
+945,CUST4264,M,54,Hyderabad,Electronics,Headphones,2,10603.41,21206.82,Card,Delivered,2023-05-20
+946,CUST3793,M,41,Kolkata,Furniture,Bed,4,4004.95,16019.8,Net Banking,Cancelled,2023-12-18
+947,CUST9253,F,61,Delhi,Groceries,Sugar,4,8552.23,34208.92,Card,Pending,2023-12-25
+948,CUST8655,F,,Pune,Books,Comic,3,3312.91,9938.73,Card,Pending,2023-03-13
+949,CUST8790,F,58,Pune,Beauty,Sunscreen,3,13524.06,40572.18,Cash,Delivered,2023-08-04
+950,CUST8478,F,52,Kolkata,Clothing,Jeans,3,13701.57,41104.71,Cash,Pending,2023-11-12
+951,CUST9306,M,48,Kolkata,Toys,Doll,3,3825.99,11477.97,UPI,Delivered,2023-04-30
+952,CUST9586,M,28,Bangalore,Beauty,Lipstick,4,14312.03,57248.12,UPI,Cancelled,2023-12-24
+953,CUST7487,M,37,Ahmedabad,Groceries,Oil,1,11839.11,11839.11,Card,Pending,2023-08-23
+954,CUST5009,M,23,Pune,Electronics,Phone,2,3046.08,6092.16,Card,Pending,2023-02-16
+955,CUST7165,F,61,Chennai,Electronics,Headphones,1,2431.98,2431.98,Card,Pending,2023-12-09
+956,CUST9750,M,38,Pune,Clothing,Jacket,2,1971.11,3942.22,Net Banking,Cancelled,2023-07-21
+957,CUST7523,M,33,Chennai,Toys,Board Game,5,452.1,2260.5,UPI,Cancelled,2023-01-01
+958,CUST5668,F,23,Kolkata,Groceries,Flour,2,2860.16,5720.32,Card,Pending,2023-03-19
+959,CUST6673,M,43,Kolkata,Toys,Lego,4,3952.24,15808.96,Cash,Pending,2023-02-12
+960,CUST7581,F,61,Mumbai,Electronics,Phone,5,4819.44,24097.2,Net Banking,Cancelled,2023-12-10
+961,CUST9765,F,46,Delhi,Furniture,Bed,1,3916.8,3916.8,Net Banking,Cancelled,2023-06-21
+962,CUST5224,M,23,Ahmedabad,Groceries,Flour,4,7999.09,31996.36,UPI,Cancelled,2023-10-30
+963,CUST7050,F,49,Kolkata,Beauty,Shampoo,1,6998.21,6998.21,Cash,Cancelled,2023-12-18
+964,CUST6318,F,29,Mumbai,Sports,Yoga Mat,1,11514.16,11514.16,Net Banking,Delivered,2023-08-17
+965,CUST9084,F,33,Hyderabad,Clothing,Saree,5,10991.97,54959.85,Cash,Delivered,2023-03-16
+966,CUST6350,F,64,Mumbai,Sports,Cycle,2,10350.43,20700.86,Net Banking,Delivered,2023-02-09
+967,CUST1366,M,64,Hyderabad,Groceries,Sugar,1,14653.81,14653.81,UPI,Pending,2023-07-25
+968,CUST7131,F,37,Chennai,Clothing,Jacket,2,14479.14,28958.28,Card,Cancelled,2023-01-26
+969,CUST5668,F,60,Mumbai,Beauty,Lipstick,2,11215.7,22431.4,Net Banking,Delivered,2023-12-14
+970,CUST4683,M,35,Pune,Beauty,Moisturizer,4,329.85,1319.4,UPI,Delivered,2023-04-24
+971,CUST8792,M,55,Pune,Books,Novel,5,9190.22,45951.1,UPI,Cancelled,2023-07-19
+972,CUST5189,F,65,Mumbai,Sports,Yoga Mat,4,5228.18,20912.72,Card,Cancelled,2023-07-19
+973,CUST6166,F,65,Ahmedabad,Clothing,Jacket,3,8441.82,25325.46,UPI,Pending,2023-05-30
+974,CUST9040,M,54,Kolkata,Electronics,Phone,2,9391.7,18783.4,Cash,Pending,2023-10-12
+975,CUST3926,M,31,Kolkata,Groceries,Flour,1,9126.47,9126.47,Cash,Cancelled,2023-05-29
+976,CUST6206,F,35,Chennai,Beauty,Lipstick,4,11281.65,45126.6,UPI,Cancelled,2023-02-24
+977,CUST1054,F,46,Ahmedabad,Beauty,Perfume,3,11364.58,34093.74,Card,Pending,2023-05-28
+978,CUST3270,M,44,Kolkata,Groceries,Rice,4,5781.13,23124.52,Cash,Cancelled,2023-04-25
+979,CUST7378,M,48,Bangalore,Electronics,Tablet,2,9166.7,18333.4,UPI,Delivered,2023-11-04
+980,CUST2061,M,63,Chennai,Toys,Car,2,10859.75,21719.5,UPI,Delivered,2023-05-31
+981,CUST2821,F,33,Bangalore,Toys,Puzzle,5,3713.45,18567.25,Net Banking,Cancelled,2023-11-25
+982,CUST9515,F,,Kolkata,Books,Dictionary,1,10844.59,10844.59,,Cancelled,2023-07-28
+983,CUST1979,F,56,Kolkata,Clothing,Jacket,5,14365.74,71828.7,Cash,Pending,2023-09-04
+984,CUST5300,M,46,Bangalore,Electronics,Tablet,5,6021.47,30107.35,Cash,Delivered,2023-03-16
+985,CUST2213,F,48,Ahmedabad,Sports,Cycle,2,9865.23,19730.46,Cash,Pending,2023-11-25
+986,CUST3294,M,46,Hyderabad,Books,Comic,4,5169.52,20678.08,UPI,Cancelled,2023-01-19
+987,CUST5992,F,36,Ahmedabad,Electronics,Phone,5,13208.55,66042.75,Card,Cancelled,2023-11-21
+988,CUST1458,M,36,Hyderabad,Furniture,Table,2,11168.81,22337.62,UPI,Cancelled,2023-04-27
+989,CUST3791,F,65,Bangalore,Groceries,Sugar,3,230.4,691.2,Net Banking,Pending,2023-11-13
+990,CUST2060,F,51,Chennai,Sports,Badminton,4,5646.72,22586.88,Net Banking,Pending,2023-01-08
+991,CUST8525,M,64,Chennai,Furniture,Table,3,3403.43,10210.29,Card,Pending,2023-09-13
+992,CUST9810,M,39,Mumbai,Books,Comic,4,9980.45,39921.8,UPI,Cancelled,2023-10-01
+993,CUST8472,M,65,Mumbai,Toys,Board Game,2,7868.08,15736.16,Card,Delivered,2023-12-20
+994,CUST1997,M,22,Chennai,Furniture,Wardrobe,2,4198.27,8396.54,Card,Cancelled,2023-06-05
+995,CUST2196,M,52,Ahmedabad,Books,Magazine,4,11437.12,45748.48,Cash,Pending,2023-11-21
+996,CUST1157,F,55,Delhi,Clothing,Jacket,2,1296.62,2593.24,Net Banking,Pending,2023-10-19
+997,CUST9070,M,18,Pune,Toys,Doll,5,8854.62,44273.1,Net Banking,Cancelled,2023-05-19
+998,CUST9242,F,52,Ahmedabad,Toys,Board Game,3,4292.15,12876.45,UPI,Cancelled,2023-10-15
+999,CUST8078,F,50,Delhi,Clothing,Jeans,3,7339.33,22017.99,Card,Delivered,2023-02-03
+1000,CUST9221,F,30,Pune,Toys,Car,5,9586.35,47931.75,Card,Delivered,2023-06-07
