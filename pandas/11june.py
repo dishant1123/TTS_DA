@@ -41,6 +41,8 @@ print(a)
 task  : 1 country  =="india" and year ==2002 print country  and year column using  loc or  iloc  or df . 
 hint  : use & operator  for  condition 
 
+a= df.loc[(df["country"]=="india") & (df["year"]==2002)]
+
 task :2 in  mckinsey.csv dataset add new column col_name = next_year +3 display like  this  : 
 
     country,year,population,continent,life_exp,gdp_cap,next_year
