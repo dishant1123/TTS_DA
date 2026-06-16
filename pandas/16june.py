@@ -55,10 +55,11 @@ print(df)
 """
 # apply  : 
 
+"""
 df['category'] =df.apply(lambda x :  "a" if x['price'] >10000 else "b" , axis=1)
 print(df)
 
-
+"""
 """
 lambda x :"a" if x > 100 else "b"
 """
