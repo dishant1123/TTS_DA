@@ -106,3 +106,6 @@ print(df)
 df['salary']=df['salary'].fillna(100)
 
 print(df)
+
+df.index =["A","B","C","D","E"]
+print(df)
