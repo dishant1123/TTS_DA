@@ -50,16 +50,83 @@ print(outlier)
 """
 
 # apply   : 
-"""df["Revenue"] = df["price"] * df["quantity"]
+"""
+df["Revenue"] = df["price"] * df["quantity"]
 print(df)
 """
 # apply  : 
 
-"""
-df['category'] =df.apply(lambda x :  "a" if x['price'] >10000 else "b" , axis=1)
-print(df)
 
+"""df['category'] =df.apply(lambda x :  "a" if x['price'] >10000 else "b" , axis=1)
+print(df)
+"""
+
+# lambda : one  line  liner  function  
+"""
+a=int(input("enter a number :"))
+b=int(input("enter a number :"))
+
+if a>b :
+    print("a")
+else :
+    print("b")
+
+syntax :  lambda arg : expression     
+
+result = lambda a,b : print(a) if (a>b) else print(b)
+result(12,45)
 """
 """
 lambda x :"a" if x > 100 else "b"
 """
+"""def func(price):
+    if price >10000 :
+        return "10%"
+    else :
+        return "5%"
+    
+df["discount"] = df['price'].apply(func)
+print(df)
+"""
+# map : i want  to  rs symbol  to all num value  :₹ 
+"""df["Revenue"] = df["price"] * df["quantity"]
+
+df_num = df[['price','Revenue']]
+update_df = df_num.map(lambda x : f"₹{x}")
+
+print(update_df)
+
+"""
+
+# l1 =[12,23,56,78]   # +5  = [17 ,28 ,61 , 83]
+# # result =list(map(lambda x : x+5 ,l1))
+# result =tuple(filter(lambda x : x>50 ,l1))
+
+# print(result)
+
+
+
+"""df["Revenue"] = df["price"] * df["quantity"]
+print(df)
+
+df_num = df[['price','Revenue']]
+update_df = df_num.map(lambda x : f"${x}")
+
+print(update_df)
+"""
+"""
+input  : ram 
+output  : how are you ram  ???  hey ram  how are  you  ??
+"""
+# a=input("enter a string :")
+# print("how are you ??",a)
+# print("hey",a,"how are you ??")
+# print(f"hey {a}  how are  you ")
+
+
+from scipy .stats import zscore
+
+df['z-score'] =zscore(df['price'])
+print(df)
+outliers = df[df["z-score"] > 2]
+print(outliers)
