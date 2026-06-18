@@ -105,7 +105,6 @@ print(update_df)
 # print(result)
 
 
-
 """df["Revenue"] = df["price"] * df["quantity"]
 print(df)
 
