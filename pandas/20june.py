@@ -77,15 +77,44 @@ customers = pd.DataFrame({
 })
 
 products = pd.DataFrame({
-    "id" : [102,103,104,105,106],
+    "id" : [1022,1023,1024,1205,1206],
     "product":["monitor","keyboard","mouse","CPU","printer"],
     "price":[50000,1200,800,30000,10000]
 })
 
-inner_join = pd.merge(
+"""inner_join = pd.merge(
     customers,
     products,
     on ="id",
     how ="inner"
 )
 print(inner_join)
+"""
+"""right_join = pd.merge(
+    customers,
+    products,
+    on ="id",
+    how ="right"
+)
+print(right_join)
+
+"""
+"""
+left_join = pd.merge(
+    customers,
+    products,
+    on ="id",
+    how ="left"
+)
+print(left_join)
+"""
+
+outer_join = pd.merge(
+    customers,
+    products,
+    on ="id",
+    how ="outer"
+)
+print(outer_join)
+
+# concat  :
