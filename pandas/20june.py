@@ -109,12 +109,12 @@ left_join = pd.merge(
 print(left_join)
 """
 
-outer_join = pd.merge(
+"""outer_join = pd.merge(
     customers,
     products,
     on ="id",
     how ="outer"
 )
 print(outer_join)
+"""
 
-# concat  :
