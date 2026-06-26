@@ -137,4 +137,4 @@ print("sales : \n",sales)
 
 print(np.clip(sales,10000,25000))
 
-# IQR , z-score 
+# IQR , z-score :

@@ -1,0 +1,7 @@
+id,name,age,salary
+1,john,20,10000
+2,mary,25,
+3,peter,30,8000
+4,paul,,7000
+5,george,40,6000
+6,,45,5000
