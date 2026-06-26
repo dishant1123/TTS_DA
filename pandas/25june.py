@@ -108,3 +108,7 @@ print(df['total_sales'])
 
 # co-relation  : 
 
+graph = df.corr(numeric_only=True)
+
+sns.heatmap(graph,annot=True,cmap="coolwarm")
+plt.show()
