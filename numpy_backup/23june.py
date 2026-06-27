@@ -138,3 +138,9 @@ print("sales : \n",sales)
 print(np.clip(sales,10000,25000))
 
 # IQR , z-score :
+
+
+"""
+mon  wed fri  : 10.30-12,5-7 
+TTS   : 2-3.30 
+"""
