@@ -70,8 +70,28 @@ print(df)
 """
 # excel file  : 
 
-import openpyxl   # pip install openpyxl
+"""import openpyxl   # pip install openpyxl
 
 df= pd.read_excel("pandas_backup\sample-staff-data.xlsx")
 print(df.head())
 print(df.columns)
+"""
+
+# pip install  pymysql sqlalchemy 
+
+from sqlalchemy import create_engine
+
+username ="root"
+password ="root"
+host ="localhost"
+port = 3306
+database="employees"
+
+engine = create_engine(
+    f"mysql+pymysql://{username}:{password}@{host}:{port}/{database}"
+)                    # username password , host , port , database
+
+df = pd.read_sql('SELECT * FROM emp',engine)
+print(df.head())
+
+# mysql-connector , psycopg2  : pip install mysql-connector psycopg2
