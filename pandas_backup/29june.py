@@ -55,6 +55,23 @@ print(c.values)
 
 # read_csv : 
 
-df =pd.read_csv("pandas_backup\student_tops.csv")
+# df =pd.read_csv("pandas_backup\student_tops.csv")
+# print(df)
+# print(df.shape)
+# print(df.head())
+# print(df.tail())
+# print(df.info())
+# print(df.describe(include="all"))
+
+# tsv : tab separated values
+"""
+df =pd.read_csv("pandas_backup\student_tops_copy.tsv",sep="\t")
 print(df)
-print(df.shape)
+"""
+# excel file  : 
+
+import openpyxl   # pip install openpyxl
+
+df= pd.read_excel("pandas_backup\sample-staff-data.xlsx")
+print(df.head())
+print(df.columns)
