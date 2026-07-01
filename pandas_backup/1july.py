@@ -52,10 +52,20 @@ df = pd.read_csv("pandas\mckinsey.csv")
 # print(df)
 # print(df.shape)
 
-# loc  : 
-
+# loc  : row index ,  col   ===> col name   
+"""
 print(df.loc[0])
 print(df.loc[2:5])  # last value included
 print(df.loc[1 :8 :2])  # start 1  stop 8   step 2 
 
 print(df.loc[2:5,["country","population"]])  # last value included
+"""
+
+# iloc : 
+print(df.iloc[0])
+print(df.iloc[2:5])  # last value excluded 
+print(df.iloc[2:5,1:3])  # last value excluded
+
+# task  : year ==2002 print country and year column using  loc or  iloc  or df .
+
+
