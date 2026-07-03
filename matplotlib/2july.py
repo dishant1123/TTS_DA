@@ -46,8 +46,10 @@ for x,y in zip(group_wise.index,group_wise.values):
         fontsize=9,
         color='blue',
     )
+plt.xticks(rotation=45)
 plt.xlabel("Month")
 plt.ylabel("Revenue")
+plt.legend(labels=['Sales'],loc='upper left')
 plt.show()
 
 # year  wise sales trend :  2022 ,23 ,24 
