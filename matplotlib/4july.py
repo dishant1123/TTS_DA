@@ -57,7 +57,7 @@ plt.show()
 """
 
 # sub plot  : 
-df = pd.DataFrame({
+"""df = pd.DataFrame({
     "Month":["Jan","Feb","Mar","Apr","May","Jun"],
     "Sales":[120,150,170,160,200,220],
     "Profit":[20,30,35,28,45,50],
@@ -87,3 +87,5 @@ plt.title("sales vs profit")
 
 plt.tight_layout()  # automatically adjust subplot layout
 plt.show()
+"""
+
