@@ -85,7 +85,7 @@ plt.show()
 
 #c.errorbar plot : using student_marks .csv
 
-
+"""
 df =pd.read_csv("matplotlib\student_marks.csv")
 
 plt.figure(figsize=(10,6))
@@ -94,4 +94,4 @@ plt.errorbar(df['Student'],df['Average'],yerr=df['StdDev'],color='blue',marker='
 plt.title("student marks")
 plt.xlabel("student")
 plt.ylabel("marks")
-plt.show()
+plt.show()"""
