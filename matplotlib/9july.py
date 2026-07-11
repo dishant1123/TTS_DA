@@ -26,8 +26,10 @@ higest_sale_month = df.loc[max_sale_index,'Month']  # 'Nov'
 # print(max_sale_index)
 # print(higest_sale_month)
 
+"""
 plt.scatter(max_sale_index,max_sale,color='red',marker='o',s=100)
 # plt.show()
 
 plt.annotate("max sales",(max_sale_index,max_sale),color='red',fontsize=10)
 plt.show()
+"""
