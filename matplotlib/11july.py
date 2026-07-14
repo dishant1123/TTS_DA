@@ -12,6 +12,6 @@ step :4 duplicate   ===> duplicated, drop_duplicates
 step :5 order_date , ship_date ===> pd.to_datetime , dt.year , dt.month , dt.day
 
 KPI : 
-   
+ 
 """
 
