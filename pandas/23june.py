@@ -58,7 +58,7 @@ print(sales_purchase)
 # pivot : 
 import pandas as pd
 
-'''
+
 sales_data = pd.DataFrame({
     "Date": [
         "2026-01-01", "2026-01-01", "2026-01-02",
@@ -98,7 +98,7 @@ pivort = sales_data.pivot_table(
     
 )
 print(pivort)
-'''
+
 
 # groupby :
 

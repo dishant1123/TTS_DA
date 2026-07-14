@@ -10,13 +10,13 @@ matplotlib : basic graph
     7. hist  plot  : frequency 
 
 function  : 
-    figsize,xlabel,ylabel,title,legend,grid,show,linewidth,linestyle,marker,color,savefig 
+    figsize,xlabel,ylabel,title,legend,grid,show,linewidth,linestyle,marker,color,savefig  ===> jpg/png 
     
 seaborn : adv graph , statistical calculation  ,less code 
 
-pip install seaborn ,!pip install seaborn 
+pip install seaborn ,jpyter ==> !pip install seaborn 
 
-seaborn theme  : sns.set_theme(darkgrid,whitegrid,white,ticks)
+seaborn theme  : sns.set_theme(darkgrid,whitegrid,white)
 
 1. lineplot : id vs purchase 
 2.
@@ -59,9 +59,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy  as np
+# pip install matplotlib --upgrade
 
-"""
-x=['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
+"""x=['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
 y=[10,20,30,40,50,60,70,80,90,100,110,120]
 plt.style.use('ggplot')
 
@@ -75,13 +75,13 @@ plt.show()
 
 # ex :2 csv file 
 
-df = pd.read_csv("seaborn\customer_data.csv")
+"""df = pd.read_csv("seaborn\customer_data.csv")
 print(df.head())
 
 sns.set_theme(style="darkgrid")
 plt.figure(figsize=(10,6))
 """
-lines =sns.lineplot(x="Customer_ID",y="Purchase_Amount",data=df,hue="Gender",linewidth=2,markers=True)
+"""lines =sns.lineplot(x="Customer_ID",y="Purchase_Amount",data=df,hue="Gender",linewidth=2)
 
 for i in lines.lines:
     i.set_linewidth(2)
@@ -90,15 +90,14 @@ for i in lines.lines:
     i.set_markeredgewidth(2)
 
 plt.title("line plot")
-
-plt.title("line plot")
+# plt.title("line plot")
 plt.show()
 """
 # ex :2 count plot  
 
-# sns.countplot(x="Gender",data=df)
-"""
-sns.countplot(x="City",data=df)
+"""sns.countplot(x="Gender",data=df)
+
+# sns.countplot(x="City",data=df)
 
 plt.title("count plot")
 plt.show()
@@ -106,7 +105,7 @@ plt.show()
 
 # ex : 3 bar plot 
 
-"""sns.barplot(x="Gender",y="Purchase_Amount",data=df,estimator=max,errorbar=None,hue="City")
+"""sns.barplot(x="Gender",y="Purchase_Amount",data=df,errorbar=None,hue="City",estimator=np.median)
 plt.title("bar plot")
 plt.show()
 """
