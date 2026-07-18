@@ -47,7 +47,7 @@ plt.show()
 
 # violin plot : combination of the box +kde ===> it shown the spread and density of the data.
 
-sns.violinplot(
+"""sns.violinplot(
     x="Category",
     y="Amount",
     data=df,
@@ -59,4 +59,4 @@ sns.violinplot(
 )
 plt.title("violin plot")
 plt.show()
-
+"""
