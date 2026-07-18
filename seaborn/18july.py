@@ -13,7 +13,6 @@ import matplotlib.pyplot as plt
 df =pd.read_csv("seaborn\sales_data (1).csv")
 print(df)
 
-"""
 sns.pairplot(
     data=df,
     vars=['Sales','Profit','Quantity','Discount'],
@@ -22,6 +21,6 @@ sns.pairplot(
              )
 plt.title("pair plot")
 plt.show()
-"""
+
 
 # jointplot :
