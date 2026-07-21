@@ -29,7 +29,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-"""
+
 df = pd.DataFrame({
     "advertisement":[10,20,30,40,50,60],
     "sales":[120,150,175,200,250,230]
@@ -41,7 +41,7 @@ plt.title("scatter plot")
 plt.xlabel("advertisement")
 plt.ylabel("sales")
 plt.show()
-"""
+
 # trend line :
 
 """plt.figure(figsize=(10,5))

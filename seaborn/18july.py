@@ -13,14 +13,22 @@ import matplotlib.pyplot as plt
 df =pd.read_csv("seaborn\sales_data (1).csv")
 print(df)
 
-sns.pairplot(
+"""sns.pairplot(
     data=df,
     vars=['Sales','Profit','Quantity','Discount'],
     hue="Region",
-    kind="scatter"
+    kind="kde"
              )
 plt.title("pair plot")
 plt.show()
-
+"""
 
 # jointplot :
+
+sns.jointplot(data=df,
+              x="Sales",
+              y="Profit",
+              kind="kde")
+
+plt.title("joint plot")
+plt.show()
