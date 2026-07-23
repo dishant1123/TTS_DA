@@ -4,10 +4,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-"""
+
 df=pd.read_csv("seaborn/sales_discount.csv")
 print(df.head())
-"""
+
 # plt.figure(figsize=(10,5))
 
 """sns.regplot(
@@ -111,3 +111,58 @@ plt.xlabel("Discount")
 plt.ylabel("Sales")
 plt.show()
 """
+
+# pdf ,svg , png , jpg  : 
+
+plt.figure(figsize=(10,5))
+
+sns.scatterplot(
+    data=df,
+    x="Discount",
+    y="Sales",
+    hue="Region",
+    s=120
+)
+plt.title("Sales vs Discount")
+
+plt.savefig("seaborn/sales_discount.png")  # after  save  then  plt.show() use  
+
+# plt.savefig("seaborn/SALES_DISCOUNT_HIGH_QUALITY.png",dpi=300)   # dpi  use  for  picture quality 
+
+# plt.savefig("seaborn/sales_discount.pdf") 
+
+# plt.savefig("seaborn/sales_discount_transparent.png",transparent=True)   # transparent  use  for  picture quality
+
+# plt.savefig("seaborn/salesdis_analysis.png",bbox_inches="tight")   # bbox_inches  use  for  picture quality
+
+
+plt.show()
+
+# ppt : 
+"""
+pip install python-pptx
+"""
+
+from pptx import Presentation
+from pptx.util import Inches
+
+prs = Presentation()
+
+
+slide_layout=prs.slide_layouts[5]
+slide =prs.slides.add_slide(slide_layout)
+
+slide.shapes.title.text = "Sales vs Discount"
+
+slide.shapes.add_picture(
+    "seaborn/sales_discount.png",
+    Inches(1.5), 
+    Inches(1.5),
+    width=Inches(7),
+)
+
+prs.save("sales_discount.pptx")
+print("pptx file saved successfully")
+
+
+# 1 aug  submit all  assignment for numpy pandas matplotlib seaborn 
