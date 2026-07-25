@@ -126,9 +126,7 @@ sns.scatterplot(
 plt.title("Sales vs Discount")
 
 plt.savefig("seaborn/sales_discount.png")  # after  save  then  plt.show() use  
-
 # plt.savefig("seaborn/SALES_DISCOUNT_HIGH_QUALITY.png",dpi=300)   # dpi  use  for  picture quality 
-
 # plt.savefig("seaborn/sales_discount.pdf") 
 
 # plt.savefig("seaborn/sales_discount_transparent.png",transparent=True)   # transparent  use  for  picture quality
@@ -165,4 +163,9 @@ prs.save("sales_discount.pptx")
 print("pptx file saved successfully")
 
 
-# 1 aug  submit all  assignment for numpy pandas matplotlib seaborn 
+#1 aug  submit all  assignment for numpy pandas matplotlib seaborn 
+"""
+1 2 3 4 5 6 7 8 9 10  : 5+6 /2  = 5.5 
+
+1 2 3 4 5 6 7 8 9 
+"""
