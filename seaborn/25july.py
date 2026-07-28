@@ -67,5 +67,23 @@ plt.show()
 # which  category is subscribe more  ??   # management 
 """
 
-# marital status :
-# education  
+# marital status :  count plot   ===> ratio  married  ===> yes no ,single ===> yes no ,divorced ===> yes no
+# education  : bar plot  ===>  
+# bank balance  distribution : histplot ===> range 30000 -50000  
+# bank  bal vs subscription :  box plot   ===>  30000 -50000 ===> no 
+# housing  loan  :  bar plot ===>
+# age vs  housing loan : 
+# coorelation heatmap :
+
+numreic = df.select_dtypes(include='number')
+plt.figure(figsize=(10,5))
+
+sns.heatmap(numreic.corr(),
+            annot=True,
+            cmap="coolwarm")
+plt.title("Correlation Heatmap")
+plt.show()
+
+# note : seaborn  finish  ===> next  assignment   sat assessment ===>check 
+
+# doubts ==>  
