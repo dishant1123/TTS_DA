@@ -34,17 +34,17 @@ df = pd.DataFrame({
     "advertisement":[10,20,30,40,50,60],
     "sales":[120,150,175,200,250,230]
 })
-
+"""
 plt.figure(figsize=(10,5))
 plt.scatter(df['advertisement'],df['sales'],color='blue',marker='o',s=100)
 plt.title("scatter plot")
 plt.xlabel("advertisement")
 plt.ylabel("sales")
-plt.show()
+plt.show()"""
 
 # trend line :
 
-"""plt.figure(figsize=(10,5))
+plt.figure(figsize=(10,5))
 plt.scatter(df['advertisement'],df['sales'],color='blue',marker='o',s=100)
 
 m,b =np.polyfit(df['advertisement'],df['sales'],1)
@@ -54,7 +54,7 @@ plt.title("scatter plot with trend line")
 plt.xlabel("advertisement")
 plt.ylabel("sales")
 plt.show()
-"""
+
 
 # sub plot  : 
 """df = pd.DataFrame({

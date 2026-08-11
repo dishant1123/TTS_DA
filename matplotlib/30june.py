@@ -4,7 +4,7 @@ import pandas as pd
 
 # bar charts : 
 
-"""df = pd.DataFrame({
+df = pd.DataFrame({
     "student":["ram","sita","raj","dhan","bhagwat"],
     "marks":[90,55,85,65,75]
 })
@@ -31,7 +31,7 @@ for i in bars:  # bars = [ram ,sita ,ravan ,laxman ,dhan]
 plt.legend(labels=["marks"],loc='upper right')
 plt.grid(True)
 plt.show()
-"""
+
 # barh charts :
 """
 df = pd.DataFrame({
@@ -73,13 +73,13 @@ plt.show()
 """
 
 # donut charts :
-mobile =["iphone","android","windows","samsung","htc"]
+"""mobile =["iphone","android","windows","samsung","htc"]
 shares = [78,56,34,61,20]
 
 plt.pie(shares,labels=mobile,autopct="%1.1f%%",wedgeprops={'width':0.6})
 plt.title("mobile share")
 plt.show()
-
+"""
 
 # next : overlapping function  , wraptext function  
 # task  : 1 using  flipkart data set : bar chart ,  barh , pie , donut 
