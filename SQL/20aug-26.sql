@@ -25,7 +25,7 @@ type :
 
 use scott;
 
-select * from employees;  
+select * from employees; 
 select * from  departments;
 
 /*
@@ -40,7 +40,6 @@ select * from  departments;
 5.DISPLAY DEPARTMENT_NAME , REGION_NAME (ON)
 
 6.Departments in which no employee is hired
-
 
 7.Employees whose Department_ID is not decided
 
@@ -88,3 +87,57 @@ on d.LOCATION_ID = l.LOCATION_ID;
 
 -- 4.FIRST_NAME, DEPARTMENT_NAME, CITY, COUNTRY_NAME 
 select * from  countries;
+
+-- 6.Departments in which no employee is hired 
+select d.department_name 
+from departments d  
+left join employees e  
+on e.department_id = d.department_id
+where e.department_id is null; 
+
+select department_name 
+from employees
+right join departments 
+using (department_id)
+where employee_id is null; 
+
+-- 7.Employees whose Department_ID is not decided
+select * from departments;
+select * from employees;
+
+select first_name  from  employees 
+left join departments 
+using (department_id) 
+where department_id is null;
+
+-- 8.Regions in which no country exists
+select * from regions; 
+select * from countries;
+
+select r.region_id ,r.region_name 
+from regions r 
+left join countries c 
+on r.region_id = c.region_id 
+where c.country_id is null; 
+
+-- 9.Countries in which no location is fixed
+select * from  locations;
+select * from countries;
+
+select country_name from countries 
+left join locations 
+using (country_id) 
+where location_id is null; 
+
+-- 10. join with  group  by  : display department wise total salary >30000  using  join + group  +having
+
+select d.department_name ,sum(e.salary) as total_salary
+from  employees e 
+inner join departments d
+on e.department_id = d.department_id 
+group by d.department_name
+having sum(e.salary) > 30000;
+
+
+
+
