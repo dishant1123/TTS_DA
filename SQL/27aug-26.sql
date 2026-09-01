@@ -14,7 +14,7 @@
 8.Display manager name and number of employees working under each manager  ---> self join +group by
 
 9.Display all employees and all departments, including unmatched 
-records ----> full  outer join  ----> use 
+records ----> full  outer join  ----> use union 
 10.Display employees who don't belong to any department and 
 departments that don't have any employee.
 
@@ -70,4 +70,8 @@ from employees e
 left join employees m 
 on e.manager_id = m.employee_id 
 where m.employee_id is null; 
+
+-- 8.Display manager name and number of employees 
+-- working under each manager  ---> self join +group by
+
 
