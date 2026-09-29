@@ -51,7 +51,7 @@ pivort for :country vs month ,country vs product
 
 
 """
-# ==========================================
+"""# ==========================================
 # Step 1: Import Libraries
 # ==========================================
 
@@ -179,3 +179,14 @@ print("\nStudents in Each Cluster")
 for cluster in sorted(df["Cluster"].unique()):
     print(f"\nCluster {cluster}")
     print(df[df["Cluster"] == cluster][["Student", "Maths", "Science"]])
+"""
+
+
+import pandas as pd
+from ydata_profiling import ProfileReport
+from ipywidgets import HTML, Button, widgets
+
+df = pd.read_csv('pandas/shopeasy_sales.csv')
+profile = ProfileReport(df, title="Exploratory Data Analysis Report", explorative=True)
+profile.to_notebook_iframe()
+profile.to_file("eda_report.html")
