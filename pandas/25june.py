@@ -51,49 +51,49 @@ print(rating_frequecy)
 
 # age  histogram : 
 
-"""hist_age = df['Age'].hist(bins=7)
+hist_age = df['Age'].hist(bins=7)
 plt.show()
-"""
+
 
 # box plot  : 
 
-"""plt.boxplot(df['Price'])
+plt.boxplot(df['Price'])
 plt.xlabel("Price")
 plt.title("Boxplot of Price")
 plt.show()
-"""
+
 
 # bivariate analysis :
 	# a. sales vs age  :scatter 
 
-"""
+
 sns.scatterplot(x="Age",y="total_sales",data=df)
 plt.xlabel("Age")
 plt.ylabel("Total Sales")
 plt.title("Scatterplot of Total Sales vs Age")
 plt.show()
-"""
+
 # sales vs qty : 
-"""sns.scatterplot(x="Quantity",y="total_sales",data=df)
+sns.scatterplot(x="Quantity",y="total_sales",data=df)
 plt.xlabel("QTY")
 plt.ylabel("Total Sales")
 plt.title("Scatterplot of Total Sales vs QTY")
 plt.show()
-"""
+
 # product  wise avg sales  : 
 
-"""
+
 Product_wise_sales =df.groupby('Product')['total_sales'].mean()
 print(Product_wise_sales)
 
 # City-wise Sales
 city_wise_sales =df.groupby('City')['total_sales'].sum()
 print(city_wise_sales)
-"""
+
 
 # stats : mean , median ,mode , std ,var
 
-"""df['total_sales'] =df['total_sales'].mean()
+df['total_sales'] =df['total_sales'].mean()
 print(df['total_sales'])
 
 df['total_sales'] =df['total_sales'].median()
@@ -104,7 +104,7 @@ print(df['total_sales'])
 
 df['total_sales'] =df['total_sales'].std()
 print(df['total_sales'])
-"""
+
 
 # co-relation  : 
 

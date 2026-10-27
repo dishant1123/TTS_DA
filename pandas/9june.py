@@ -28,11 +28,10 @@ print(c)
 d= pd.Series({"ram":12,"sita":34,"raj":56,"dhan":78,"bhagwat":90})
 print(d)
 """
-
 # head tail info  describe : 
 
-"""
-a = pd.Series([1,2,3,4,5,6,7,8,9,10])
+
+"""a = pd.Series([1,2,3,4,np.nan,6,7,8,9,10]) #0.0 
 print(a)
 
 print(a.head())  # by default  5 rows print 
@@ -61,8 +60,8 @@ srno     name     age     marks
 1.  create dataframe  from dict
 2.  create dataframe  from list of list
 """
-"""
-df = pd.DataFrame({
+
+"""df = pd.DataFrame({
     "id" : [1,2,3,4,5] , 
     "name" : ["ram","sita","raj","dhan","bhagwat"] ,
     "age" : [12,34,56,45,34] ,
@@ -104,8 +103,8 @@ print(df.describe(include="all"))
 
 # read csv file  : 
 
-"""
-df = pd.read_csv("pandas\mckinsey.csv")
+
+df = pd.read_csv("pandas/mckinsey.csv")
 print(df)
 print(df.columns)
 
@@ -114,7 +113,7 @@ print(df1)
 
 df2 =pd.read_json("pandas\student2.json")
 print(df2)
-"""
+
 
 df = pd.read_csv("pandas\studebt3.csv")
 print(df)

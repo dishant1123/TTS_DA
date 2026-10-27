@@ -82,14 +82,14 @@ products = pd.DataFrame({
     "price":[50000,1200,800,30000,10000]
 })
 
-"""inner_join = pd.merge(
+inner_join = pd.merge(
     customers,
     products,
     on ="id",
     how ="inner"
 )
 print(inner_join)
-"""
+
 """right_join = pd.merge(
     customers,
     products,

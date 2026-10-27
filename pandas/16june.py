@@ -28,7 +28,6 @@ print(df)
 
 # IQR : outlier   formula  : IQR = Q3 - Q1
 
-"""
 q1 = df["price"].quantile(0.25)
 q3 = df["price"].quantile(0.75)
 print(q1,q3)
@@ -47,7 +46,6 @@ print("upper bound :",upper_bound)  # 86
 
 outlier = df[(df['price']>upper_bound) | (df['price']<lower_bound)]
 print(outlier)
-"""
 
 # apply   : 
 """
@@ -125,7 +123,9 @@ output  : how are you ram  ???  hey ram  how are  you  ??
 
 from scipy .stats import zscore
 
+"""
 df['z-score'] =zscore(df['price'])
 print(df)
 outliers = df[df["z-score"] > 2]
 print(outliers)
+"""

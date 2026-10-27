@@ -2,15 +2,15 @@
 
 import pandas as pd 
 
-df =pd.read_csv("pandas\mckinsey.csv")
-# print(df)
+df =pd.read_csv("pandas/mckinsey.csv")
+print(df)
 
 # print  specific rows : 
 
-"""
-one_col =df['country']
-print(one_col)
-"""
+
+# one_col =df['country']
+# print(one_col)
+
 # multiple row  print : 
 
 """
@@ -29,13 +29,14 @@ a=df.loc[2:5,"continent":"gdp_cap"]    # 2:5 row  ,col : name
 print(a)
 """
 
+
 # iloc : position based
 
-# a=df.iloc[0]
-# a=df.iloc[2:5]  # iloc  : last  excluded  
-# a=df.iloc[2:10 :2]  # iloc  : last  excluded  2 step  
-# a=df.iloc[2:5 , 1:3]    # 2:5 row  , 1:3 col   
-# print(a)
+a=df.iloc[0]
+a=df.iloc[2:5]  # iloc  : last  excluded  
+a=df.iloc[2:10 :2]  # iloc  : last  excluded  2 step  
+a=df.iloc[2:5 , 1:3]    # 2:5 row  , 1:3 col   
+print(a)
 
 """
 task  : 1 country  =="india" and year ==2002 print country  and year column using  loc or  iloc  or df . 

@@ -6,10 +6,10 @@
 """
 
 import pandas as pd
-"""
+
 df = pd.read_csv("pandas\mckinsey.csv")
 print(df)
-"""
+
 # task  : 1 country  =="india" and year ==2002 print country  and year column using  loc or  iloc  or df . 
 
 """
@@ -85,7 +85,6 @@ df=pd.DataFrame({
     "age" :[12,34,56,45,34] ,
     "salary" :[np.nan,3400,np.nan,45000,3200]
 })
-
 print(df)
 # print(df.isnull())  # bool   ===> missing  value  ===> TRUE
 # print(df.isnull().sum())   # missing  count  ===> col-wise 
@@ -102,10 +101,10 @@ print(df)
 # print(df)
 
 # salary none then  put mean or avg : 
-# df['salary']=df['salary'].fillna(df['salary'].mean())
-df['salary']=df['salary'].fillna(100)
+df['salary']=df['salary'].fillna(df['salary'].mean())
+# df['salary']=df['salary'].fillna(100)
 
 print(df)
 
-df.index =["A","B","C","D","E"]
-print(df)
+# df.index =["A","B","C","D","E"]
+# print(df)
